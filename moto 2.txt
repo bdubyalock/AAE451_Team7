@@ -1,0 +1,1883 @@
+MotoWizard Results - MAMA
+
+Desired Full-throttle Performance: Trainer
+Minimum Partial-throttle Flying Time: 13 minutes
+
+Number of Motors: 1
+Wing Span: 160 cm
+Wing Area: 51.2 dm ²
+Empty Weight: 1932 g
+Airfoil: Thin Semi Symmetrical
+
+Elevation: 900 ft
+Sea-level Pressure:  inHg
+Air Temperature: °F
+
+Drive System Type: Direct Drive Only
+Propeller Size: Any Size
+Motor Type: Brushed or Brushless
+Manufacturer: Any Manufacturer
+Battery Type: Lithium Polymer (LiPo) Only
+Maximum Number of Cells: Any Number
+
+Motor                                        Battery      Gear  Prop    Rating
+
+Turnigy Multistar 4108-480                   5x2100SHD          11x7    1.000 
+Aveox 1817/4Y                                6x2100SHD          13x9    0.997 
+Neu 2215/2Y                                  5x2100SHD 2P       10x6    0.996 
+Neu 2215/1.5Y                                3x2100SHD 3P       11x7    0.994 
+Neu 2215/2.5Y                                6x3200SHD          10x6    0.993 
+Scorpion HK-5035-500                         4x3200SHD          13x9    0.992 
+Neu 2215/3Y                                  5x3200SHD          12x9    0.992 
+Neu 1527/1.5Y                                6x2100SHD 2P       9x4.5   0.990 
+Neu 2215/1Y                                  3x2100SHD 4P       10x5.5  0.990 
+FSD FBP4074/2.5Y                             3x2100SHD 4P       8x4     0.987 
+Neu 1910/1Y                                  4x2100SHD 2P       9x4.5   0.987 
+Scorpion SII-4025-330                        6x2100SHD          13x10   0.986 
+Neu 1912/1Y                                  5x3200SHD          9x4.5   0.986 
+Hacker Q80-13XS F3A                          6x2100SHD          15x15   0.985 
+Neu 1521/2Y                                  6x3200SHD          9x4.5   0.985 
+Scorpion SII-4035-250                        6x2100SHD          14x14   0.985 
+Scorpion HKIII-5025-440                      4x3200SHD          14x11   0.984 
+Mega ACn 22/50/2E                            5x3200SHD          9x4.5   0.984 
+Neu 1910/1.5Y                                4x3200SHD          11x7    0.984 
+Scorpion HKIII-5020-520                      4x3200SHD          13x9    0.984 
+FSD FBP4092/3Y                               5x2100SHD 2P       9x4.5   0.984 
+Turnigy G160-290                             6x2100SHD          14x10   0.984 
+T-Motor U7 V2.0 KV490                        6x2100SHD          11x5.5  0.984 
+Scorpion S-4035-250                          6x2100SHD          14x14   0.984 
+Great Planes Rimfire 35-48-850 (#4640)       4x3200SHD          10x5    0.983 
+Medusa Research 036-050-1000-5               5x2100SHD 2P       9x4.5   0.983 
+Kontronik KIRA 650-15 (12V)                  4x2100SHD 3P       8x4     0.983 
+Medusa Research 036-050-0810-5               5x3200SHD          9x5     0.983 
+FSD FBP4092/4Y                               6x3200SHD          10x5    0.982 
+Scorpion HKIII-5035-500                      4x2100SHD 2P       13x11   0.982 
+Neu 1910/2Y                                  6x2100SHD          10x5.5  0.982 
+Hacker A50 14L V3                            5x2100SHD          14x11   0.982 
+Aveox 46/43/3                                5x3200SHD          12x10   0.981 
+Scorpion S-4025-16                           6x2100SHD          12x10   0.981 
+Keda KB36-74-16XL                            6x2100SHD 2P       8x4     0.981 
+Aveox 46/43/2                                5x2100SHD 2P       11x7    0.981 
+Scorpion HKIII-5020-450                      4x3200SHD          13x11   0.981 
+Scorpion SII-4020-420                        6x2100SHD          11x7    0.981 
+Scorpion S-4025-14                           6x2100SHD          12x8    0.980 
+Neu 1521/1.5Y                                4x2100SHD 2P       9x4.5   0.980 
+Kontronik Tango 45-08 (20V)                  6x3200SHD          9x4.5   0.980 
+FSD FC6362-8T                                6x2100SHD          13x10   0.980 
+FSD FBP4082/2Y                               3x3200SHD 2P       9x4.5   0.980 
+Hacker A50 14L Turnado V3                    6x2100SHD          12x7    0.980 
+Hacker A40 8L V2 14-Pole                     4x3200SHD          11x8    0.980 
+Neu 1912/2Y                                  6x2100SHD          12x7    0.980 
+Turnigy Aerostar 4340-720                    3x2100SHD 2P       12x9    0.980 
+T-Motor U7 V2.0 KV420                        6x2100SHD          11x7    0.980 
+FSD FC6362-10T                               6x2100SHD          15x13   0.979 
+Scorpion HK-5020-450                         4x3200SHD          13x11   0.979 
+Scorpion HK-4535-550                         4x2100SHD 2P       12x10   0.979 
+Hacker B50 19XL                              6x3200SHD          9x4.5   0.979 
+EM Cyclon Classic 90                         6x2100SHD          11x7    0.979 
+EM Twister 39/90                             6x2100SHD          11x7    0.979 
+Hyperion Zs4020-08                           4x2100SHD 2P       10x7    0.979 
+Scorpion SII-4025-440                        6x2100SHD          11x6    0.979 
+Hacker A50 16L V3                            5x2100SHD          15x13   0.978 
+Scorpion HK-4525-520                         4x3200SHD          12x9    0.978 
+Dualsky XM6355DA-12                          6x2100SHD          15x15   0.978 
+Hacker A50 14L 8-Pole Turbine                5x3200SHD          11x8    0.978 
+Dualsky XM5060CA-9                           6x2100SHD          12x9    0.978 
+Neu 1515/2Y-1100                             5x2100SHD 2P       8x4     0.978 
+Hacker A60 7S V2                             6x2100SHD          15x15   0.978 
+Hacker A50 12L Turnado                       4x3200SHD          13x11   0.978 
+Scorpion HKIII-4025-890                      5x2100SHD 2P       9x5     0.978 
+Turnigy Typhoon 910 Heli                     6x3200SHD          8x4     0.978 
+Turnigy Multistar 5130-570                   6x2100SHD          10x5    0.977 
+Scorpion HK-4530-500                         3x2100SHD 2P       15x13   0.977 
+Turnigy Typhoon 800 Heli                     6x3200SHD          9x4.5   0.977 
+Hacker A50 12L Turnado V3                    4x3200SHD          13x11   0.977 
+FSD FBP4082/3Y                               5x2100SHD 2P       9x4.5   0.977 
+Hacker C50 8XL                               3x2100SHD 4P       8x4     0.977 
+Scorpion SII-4025-520                        4x3200SHD          12x10   0.977 
+Feigao 540XL 17T (5408417XL)                 6x2100SHD 2P       8x4     0.977 
+Turnigy Typhoon 1070 Heli                    4x2100SHD 2P       9x4.5   0.977 
+Hacker B50 16XL                              6x2100SHD 2P       8x4     0.977 
+Castle Creations Vertigo 700-4540            4x3200SHD          13x9    0.977 
+Hacker A40 14L V2 14-Pole                    6x2100SHD          12x9    0.977 
+Hacker A50 14XS V3                           4x3200SHD          12x10   0.976 
+Hyperion Zs4020-12                           4x3200SHD          12x9    0.976 
+Scorpion HK-5020-520                         4x3200SHD          12x9    0.976 
+Mega RC 41/30/6                              3x2100SHD 2P       14x14   0.976 
+Neu 1905/2.5Y                                5x3200SHD          9x4.5   0.976 
+Neu 1527/1D                                  2x2100SHD 5P       10x5    0.976 
+Scorpion HK-4530-540                         6x3200SHD          10x7    0.975 
+Mega RC 600/30/5                             6x3200SHD          8x4     0.975 
+FSD FBP4082/2.5Y                             5x2100SHD 3P       8x4     0.975 
+Great Planes Rimfire 35-48-700 (#4635)       4x3200SHD          11x7    0.975 
+Neu 1515/3D-1360                             3x2100SHD 3P       10x5.5  0.975 
+Neu 1415/2Y                                  5x2100SHD 2P       8x4     0.975 
+Hyperion Gs3025-08                           6x3200SHD          8x4     0.975 
+Sunnysky X3525-520KV                         4x3200SHD          12x10   0.975 
+FSD FBP4092/2Y                               3x3200SHD 2P       10x5    0.975 
+Neu 1912/1.5Y                                4x3200SHD          12x10   0.975 
+Scorpion HK-4530-450                         3x2100SHD 2P       15x15   0.974 
+Hacker A60 6XS V2                            4x3200SHD          14x14   0.974 
+Neu 1521/1Y                                  3x3200SHD 2P       9x4.5   0.974 
+EM Cyclon Power 65                           5x3200SHD          10x5    0.974 
+T-Motor MT2826 KV380                         6x2100SHD          12x9    0.974 
+Dualsky XM5060CA-10                          6x2100SHD          13x11   0.974 
+Scorpion HKII-4225-500                       4x3200SHD          13x10   0.974 
+Keda KB36-74-11XL                            4x2100SHD 3P       8x4     0.974 
+Dualsky XM6355DA-11                          6x2100SHD          15x13   0.974 
+Neu 1515/1.5Y-1500                           3x2100SHD 3P       9x4.5   0.974 
+MVVS 8/680                                   4x3200SHD          11x7    0.974 
+Neu 1907/1.5Y                                5x3200SHD          9x4.5   0.974 
+Medusa Research 036-050-1600-5               3x2100SHD 3P       9x4.5   0.974 
+Medusa Research 036-050-1600-3F              3x2100SHD 3P       9x4.5   0.974 
+FSD FC5055-10T                               6x2100SHD          11x7    0.974 
+Scorpion 4020-16                             6x2100SHD          11x7    0.974 
+FSD FC4260-8T                                6x2100SHD          12x8    0.973 
+T-Motor MT2826 KV550                         6x2100SHD          10x5    0.973 
+Feigao 540XL 21T (5408421XL)                 6x3200SHD          9x4.5   0.973 
+Dualsky XM5060EA-9                           6x2100SHD          13x10   0.973 
+Mega RC 600/30/4                             4x2100SHD 2P       9x4.5   0.973 
+Scorpion HKIII-4025-730                      5x3200SHD          10x5.5  0.973 
+Neu 1907/2Y                                  4x3200SHD          11x7    0.973 
+Dualsky XM6360CA-11                          6x2100SHD          15x14   0.973 
+EM Cyclon Premium 42                         6x3200SHD          8x4     0.973 
+T-Motor MN4120 KV400                         5x2100SHD          13x8    0.973 
+Turnigy RotoMax 1.40 228                     6x2100SHD          15x13   0.973 
+Dualsky XM5060EA-10                          5x2100SHD          15x12   0.973 
+Hacker C50 10XL                              3x3200SHD 2P       9x4.5   0.973 
+Mega RC 600/20/8                             6x3200SHD          8x4     0.973 
+T-Motor MT3520 KV400                         6x2100SHD          11x8    0.973 
+Feigao 540XL 11T (5408411XL)                 4x2100SHD 3P       8x4     0.973 
+FSD FC3548-5T                                6x3200SHD          8x4     0.973 
+Scorpion HKIII-4025-650                      4x3200SHD          11x7    0.973 
+Dualsky XM6350CA-12                          6x2100SHD          13x10   0.972 
+Hyperion Gs3032-08                           5x3200SHD          10x6    0.972 
+Dualsky XM5050CA-13                          6x2100SHD          12x9    0.972 
+Hacker C50 18XL                              6x2100SHD 2P       9x4.5   0.972 
+T-Motor MN4120 KV465                         6x2100SHD          11x6    0.972 
+Scorpion 4025-16                             5x2100SHD          14x10   0.972 
+FSD FC4260-7T                                6x2100SHD          11x6    0.972 
+Hacker A50 10L Turnado                       5x3200SHD          11x7    0.972 
+Neu 1907/3Y                                  6x2100SHD          11x6    0.972 
+Scorpion HK-4526-520                         5x3200SHD          11x8    0.972 
+Hacker A50 12L 8-Pole Turbine                5x3200SHD          11x6    0.972 
+Kontronik KIRA 650-11 (12V)                  4x2100SHD 2P       9x4.5   0.972 
+Scorpion 5525-225                            6x2100SHD          15x14   0.972 
+Sunnysky X3520-520KV                         6x2100SHD          10x5.5  0.972 
+Scorpion HKIII-4035-330                      6x2100SHD          13x9    0.972 
+Hacker A50 10L Turnado V3                    5x3200SHD          11x8    0.972 
+Sunnysky X3525-720KV                         5x3200SHD          10x5.5  0.972 
+E-Flite Power 110 Outrunner 295KV            6x2100SHD          14x10   0.972 
+Hacker A50 12L V3                            6x2100SHD          12x8    0.972 
+Hacker A50 12L Glider                        6x2100SHD          12x8    0.972 
+Kontronik KIRA 650-17 (12V)                  3x3200SHD 2P       9x4.5   0.972 
+Neu F3A-1 1513/2Y                            4x2100SHD 3P       9x4.5   0.972 
+EM Cyclon Power 75                           4x3200SHD          11x7    0.972 
+Hacker B50 6XL                               2x2100SHD 5P       9x4.5   0.971 
+Dualsky XM6355DA-9.5                         6x2100SHD          14x11   0.971 
+FSD FBP3665/5Y                               5x3200SHD          9x4.5   0.971 
+Turnigy G60-300                              6x2100SHD          13x11   0.971 
+Turnigy G110-295                             6x2100SHD          14x10   0.971 
+Scorpion SII-3020-890                        6x3200SHD          8x4     0.971 
+Dualsky XM6350CA-16                          6x2100SHD          15x14   0.971 
+FSD FC5055-9T                                6x2100SHD          11x6    0.971 
+Scorpion 4035-460                            4x3200SHD          13x11   0.971 
+Scorpion HKIII-4020-890                      5x2100SHD 2P       9x5     0.971 
+T-Motor MT2826 KV760                         5x3200SHD          10x5.5  0.971 
+Kontronik Tango 45-10 (20V)                  4x2100SHD 2P       9x5     0.971 
+FSD FBP4074/3Y                               3x2100SHD 3P       10x5    0.971 
+Hacker C50 20XL                              6x3200SHD          9x4.5   0.971 
+Mega ACn 22/45/3E                            6x3200SHD          9x4.5   0.971 
+Hyperion Zs3025-10                           5x3200SHD          10x5    0.971 
+Hacker B50 18XL                              5x3200SHD          9x4.5   0.971 
+FSD FC5055-12T                               6x2100SHD          13x10   0.971 
+Hacker A60 7XS V2                            6x2100SHD          13x9    0.971 
+Feigao 540XL 22T (5408422XL)                 6x3200SHD          9x5     0.971 
+Hacker A50 12S V3                            4x3200SHD          13x11   0.971 
+Neu 1905/2Y                                  4x2100SHD 2P       10x5    0.971 
+FSD FC5065-8T                                6x2100SHD          12x9    0.970 
+Hacker A40 14S V2 14-Pole                    6x2100SHD          10x5    0.970 
+Hacker A50 16S V3                            6x2100SHD          12x8    0.970 
+Dualsky XM5015MR-6                           6x2100SHD          12x9    0.970 
+Feigao 540XL 20T (5408420XL)                 6x3200SHD          9x4.5   0.970 
+Hacker C50 7XL                               2x3200SHD 3P       9x4.5   0.970 
+Hacker B50 17XL                              6x3200SHD          8x4     0.970 
+Keda KB36-74-18XL                            6x3200SHD          8x4     0.970 
+Scorpion HKII-4235-520                       5x3200SHD          11x8    0.970 
+Hacker C50 21XL                              6x3200SHD          9x4.5   0.970 
+Turnigy Multistar 4230-630                   6x2100SHD          9x4.5   0.970 
+Aveox 46/30/3                                6x2100SHD 2P       9x4.5   0.970 
+Hyperion Gs3020-08                           4x2100SHD 2P       10x5.5  0.970 
+Hacker C50 9XL                               3x2100SHD 4P       9x4.5   0.970 
+Scorpion SII-3020-1110                       5x2100SHD 2P       8x4     0.970 
+FSD FBP4074/4Y                               4x2100SHD 2P       9x5     0.970 
+FSD FC3542-6T                                6x3200SHD          8x4     0.970 
+Turnigy Aerostar 4340-500                    6x2100SHD          10x5.5  0.970 
+FSD FC5065-7T                                6x2100SHD          12x7    0.970 
+Neu 1521/1.5D                                2x2100SHD 4P       10x5    0.969 
+Turnigy G60-500                              4x3200SHD          13x10   0.969 
+Scorpion HKII-4225-550                       4x3200SHD          12x9    0.969 
+Hacker C50 12XL                              4x2100SHD 3P       9x4.5   0.969 
+EM Cyclon Power 55                           5x2100SHD 2P       9x4.5   0.969 
+Dualsky XM6360DA-9                           6x2100SHD          15x12   0.969 
+Hyperion Zs3025-08                           5x2100SHD 2P       9x4.5   0.969 
+Scorpion 4035-330                            6x2100SHD          13x9    0.969 
+Scorpion HKIII-4035-530                      5x3200SHD          11x8    0.969 
+Scorpion SII-4035-330                        6x2100SHD          13x9    0.969 
+Sunnysky X2820-920KV                         5x3200SHD          9x4.5   0.969 
+Turnigy Typhoon 1300 Heli                    4x2100SHD 3P       9x4.5   0.969 
+Hacker A40 12L V2 14-Pole                    6x2100SHD          12x7    0.969 
+Hacker C50 16XL                              5x2100SHD 2P       9x4.5   0.969 
+Sunnysky X3520-720KV                         5x3200SHD          10x5.5  0.969 
+Hacker A40 10L V2 8-Pole                     5x2100SHD 2P       8x4     0.969 
+Keda KB36-74-20XL                            6x3200SHD          9x4.5   0.968 
+Dualsky XM6350EA-12                          6x2100SHD          14x11   0.968 
+FSD FC6362-7T                                5x3200SHD          14x13   0.968 
+Great Planes Rimfire 42-50-600 (#4695)       4x3200SHD          12x8    0.968 
+Hacker B50 10XL                              3x3200SHD 2P       9x4.5   0.968 
+Hacker B50 20XL                              6x3200SHD          9x4.5   0.968 
+Scorpion HK-3536-510                         4x3200SHD          13x10   0.968 
+Hyperion Gs3025-10                           5x3200SHD          10x6    0.968 
+FSD FBP4074/2Y                               2x3200SHD 3P       10x5.5  0.968 
+Hyperion Zs3014-12                           4x2100SHD 2P       9x4.5   0.968 
+Scorpion HKIII-4035-560                      4x3200SHD          12x8    0.968 
+Feigao 540XL 18T (5408418XL)                 5x2100SHD 2P       9x5     0.968 
+Hacker C50 17XL                              5x2100SHD 2P       9x4.5   0.968 
+Great Planes Rimfire 63-62-250 (#4795)       6x2100SHD          15x12   0.968 
+Scorpion SII-3026-890                        4x2100SHD 2P       10x6    0.968 
+Scorpion HKIII-4035-450                      4x3200SHD          13x11   0.968 
+Scorpion HKIII-4025-550                      5x3200SHD          11x8    0.968 
+Mega RC 41/30/9                              6x2100SHD          13x9    0.968 
+Hacker B50 21XL                              6x3200SHD          9x5     0.968 
+Scorpion SII-4035-380                        4x3200SHD          14x14   0.968 
+Dualsky XM5050EA-10                          6x2100SHD          11x7    0.967 
+FSD FBP4092/3.5D                             4x3200SHD 2P       8x4     0.967 
+FSD FBP4082/4D                               4x3200SHD 2P       8x4     0.967 
+Keda KB36-74-17XL                            5x2100SHD 2P       9x4.5   0.967 
+Medusa Research 036-050-2200-3F              2x2100SHD 4P       9x4.5   0.967 
+Medusa Research 036-050-2200-5               2x2100SHD 4P       9x4.5   0.967 
+Scorpion 4035-380                            4x3200SHD          14x14   0.967 
+Dualsky XM5060EA-8                           6x2100SHD          12x8    0.967 
+Hacker B50 14XL                              5x2100SHD 2P       8x4     0.967 
+Scorpion 4020-14                             4x3200SHD          13x11   0.967 
+FSD FC5065-6T                                4x3200SHD          13x12   0.967 
+Mega AC 22/45/3E                             5x3200SHD          10x6    0.967 
+Hyperion HP-Z5025-22                         6x2100SHD          15x15   0.967 
+Neu 1907/2.5Y                                6x2100SHD          10x5    0.967 
+Feigao 540XL 15T (5408415XL)                 5x2100SHD 2P       8x4     0.967 
+E-Flite Power 160 Outrunner 245KV            6x2100SHD          15x12   0.967 
+Turnigy G160-245                             6x2100SHD          15x12   0.967 
+FSD FBP4092/4D                               4x2100SHD 3P       9x4.5   0.967 
+Dualsky XM5060EA-7                           4x3200SHD          14x13   0.967 
+Neu 1512/2Y-1400                             3x2100SHD 3P       10x5.5  0.967 
+Hyperion Zs3020-10                           5x3200SHD          9x4.5   0.966 
+Turnigy Typhoon 710 Heli                     5x3200SHD          10x6    0.966 
+Hacker A40 10L V2 14-Pole Glider             4x3200SHD          13x10   0.966 
+Hacker A40 10L V2 14-Pole                    4x3200SHD          13x10   0.966 
+Scorpion 4025-12                             4x3200SHD          13x12   0.966 
+Dualsky XM5015TE-5                           6x2100SHD          11x6    0.966 
+FSD FC5055-11T                               6x2100SHD          12x9    0.966 
+FSD FBP3660/5Y                               5x2100SHD 2P       9x4.5   0.966 
+FSD FC3548-8T                                6x2100SHD          11x5.5  0.966 
+Scorpion HKII-4225-610                       5x3200SHD          10x7    0.966 
+Hacker A40 12S V2 14-Pole                    4x3200SHD          11x8    0.966 
+Hacker A50 14S V3                            4x3200SHD          14x12   0.966 
+Sunnysky X3120-800KV                         6x3200SHD          9x4.5   0.966 
+Feigao 540XL 16T (5408416XL)                 5x2100SHD 2P       9x4.5   0.966 
+Hacker C50 6XL                               2x2100SHD 6P       9x4.5   0.966 
+Neu 1415/1.5Y                                3x2100SHD 3P       9x4.5   0.966 
+Dualsky XM6360DA-10                          6x2100SHD          15x15   0.966 
+FSD FC4260-9T                                6x2100SHD          12x9    0.966 
+Kontronik Tango 45-13 (12V)                  4x2100SHD 3P       9x4.5   0.966 
+Danlion Pulso X4120/20                       6x2100SHD          11x6    0.966 
+Mega L4                                      6x3200SHD          9x4.5   0.965 
+Turnigy Multistar 6135-330                   6x2100SHD          13x10   0.965 
+FSD FC5055-7T                                5x3200SHD          10x7    0.965 
+Suppo A5330-9                                6x2100SHD          14x12   0.965 
+FSD FC5055-6T                                5x3200SHD          10x5.5  0.965 
+FSD FBP4092/3D                               3x2100SHD 4P       9x4.5   0.965 
+Scorpion HK-4015-1450                        4x2100SHD 3P       8x4     0.965 
+Kontronik KIRA 600-17 (12V)                  3x3200SHD 2P       9x4.5   0.965 
+Hacker B50 7XL                               2x3200SHD 3P       9x5     0.965 
+MVVS 5.6/960 Redliner                        6x2100SHD 2P       8x4     0.965 
+O.S.Motor OMA-5020-490                       4x3200SHD          13x11   0.965 
+Scorpion HKIII-4025-1100                     3x2100SHD 3P       10x7    0.965 
+FSD FC4260-4T                                4x2100SHD 2P       10x7    0.965 
+Plettenberg HP 370/20/A2 S                   4x2100SHD 2P       9x5     0.965 
+Hacker A60 22S                               6x2100SHD          15x15   0.965 
+Turnigy G46-550                              4x3200SHD          12x9    0.965 
+Hacker B50 8XL                               2x2100SHD 4P       10x5    0.965 
+Great Planes Ammo 36-88-1280 (#5325)         4x2100SHD 3P       9x4.5   0.965 
+Danlion Pulso X4130/16                       6x2100SHD          12x7    0.964 
+Scorpion HKIII-4035-500                      4x3200SHD          13x9    0.964 
+Hyperion Zs3020-08                           4x2100SHD 2P       9x4.5   0.964 
+Hyperion HP-Z4020-16                         4x3200SHD          13x10   0.964 
+Scorpion SII-3020-780                        4x3200SHD          10x6    0.964 
+Hacker A60 5S V2                             6x2100SHD          13x10   0.964 
+Hyperion Gs3020-12                           6x3200SHD          9x4.5   0.964 
+Hacker C50 19XL                              5x3200SHD          9x4.5   0.964 
+Scorpion SII-3026-710                        6x3200SHD          9x5     0.964 
+Scorpion HK-4015-1070                        4x2100SHD 2P       9x4.5   0.964 
+Aveox 1415/3Y                                6x3200SHD          9x4.5   0.964 
+FSD FC4260-10T                               6x2100SHD          13x11   0.964 
+Scorpion 4020-12                             4x3200SHD          12x9    0.964 
+Hyperion HP-Z4045-12                         6x2100SHD          14x11   0.964 
+Hacker A30 10XL V3                           6x3200SHD          8x4     0.964 
+Hacker C50 11XL                              3x3200SHD 2P       9x5     0.964 
+FSD FC4260-4.5T                              5x3200SHD          10x6    0.964 
+FSD FC3548-4T                                5x2100SHD 2P       8x4     0.963 
+Hyperion HP-Z4020-12                         3x2100SHD 2P       13x10   0.963 
+Dualsky XM6350EA-15                          6x2100SHD          15x14   0.963 
+Dualsky XM5050CA-8                           4x3200SHD          12x9    0.963 
+Dualsky XM5050EA-9                           4x3200SHD          13x11   0.963 
+FSD FBP3665/4.5Y                             5x2100SHD 2P       9x5     0.963 
+FSD FB4485/13T                               6x2100SHD 2P       8x4     0.963 
+MVVS 6.5/680                                 4x2100SHD 2P       10x5.5  0.963 
+MVVS 4.6/840                                 5x3200SHD          9x4.5   0.963 
+FSD FBP3665/4D                               3x2100SHD 4P       8x4     0.963 
+Hacker A40 12S                               5x3200SHD          10x5.5  0.963 
+IFlight iBM2826-5                            6x3200SHD          8x4     0.963 
+Purple Power PPO-5055-400                    6x2100SHD          12x7    0.963 
+Dualsky XM6350EA-9                           4x3200SHD          14x14   0.963 
+Hacker A50 10S Turnado V3                    4x2100SHD 2P       11x8    0.963 
+Hacker B50 11XL                              3x2100SHD 3P       10x5    0.962 
+Hyperion Gs3032-06                           5x2100SHD 2P       9x5     0.962 
+Scorpion HK-3226-1600                        3x2100SHD 3P       9x4.5   0.962 
+Dualsky XM5050EA-7                           5x3200SHD          10x7    0.962 
+Feigao 540XL 19T (5408419XL)                 6x2100SHD 2P       9x4.5   0.962 
+Scorpion HKIII-4020-1100                     3x2100SHD 3P       10x7    0.962 
+Feigao 540XL 23T (5408423XL)                 6x3200SHD          10x5    0.962 
+Mega ACn 22/45/1E                            2x3200SHD 3P       10x5.5  0.962 
+Purple Power PPO-5065-410                    4x3200SHD          14x13   0.962 
+Hyperion Gs3014-16                           5x3200SHD          9x5     0.962 
+Dualsky XM7010MR-7.5                         6x2100SHD          13x10   0.962 
+Scorpion 4020-10                             4x3200SHD          11x7    0.962 
+Castle Creations Vertigo 600-3538            5x3200SHD          11x8    0.962 
+Turnigy G15-810                              5x3200SHD          9x5     0.962 
+Hacker A60 5XS V2                            4x3200SHD          13x12   0.962 
+FSD FC6362-4T                                4x2100SHD 2P       12x10   0.962 
+Turnigy G46-420                              6x2100SHD          11x7    0.962 
+Kontronik KBM 67-11                          5x2100SHD 2P       8x4     0.962 
+Dualsky XM5015TE-6MR                         6x2100SHD          12x9    0.962 
+Dualsky XM6360EA-10                          6x2100SHD          15x15   0.962 
+Hyperion HP-Z4020-14                         4x3200SHD          12x8    0.962 
+Mega ACn 22/45/3                             6x2100SHD 2P       8x4     0.962 
+Scorpion HK-3226-900                         4x2100SHD 2P       10x6    0.962 
+FSD FBP3660/3Y                               3x3200SHD 2P       9x4.5   0.962 
+Keda KB36-74-19XL                            5x3200SHD          9x4.5   0.962 
+Scorpion HKIII-4020-1350                     3x2100SHD 3P       9x5.5   0.962 
+Mega AC 22/45/3                              6x2100SHD 2P       8x4     0.961 
+Turnigy G10-810                              6x3200SHD          9x4.5   0.961 
+Hacker B50 9XL                               3x2100SHD 4P       9x4.5   0.961 
+Purple Power PPO-5065-270                    6x2100SHD          14x12   0.961 
+FSD FBP3660/4.5Y                             5x2100SHD 2P       8x4     0.961 
+MVVS 4.6/840 Sport                           5x3200SHD          9x4.5   0.961 
+Neu 1515/1Y-2200                             2x3200SHD 3P       10x5    0.961 
+Feigao 540XL 6T (5408406XL)                  2x2100SHD 6P       9x4.5   0.961 
+Castle Creations Vertigo 550-3530            3x2100SHD 3P       10x6    0.961 
+Medusa Research 028-056-0900                 5x3200SHD          9x4.5   0.961 
+FSD FC4260-6T                                4x3200SHD          12x10   0.961 
+Scorpion SII-3032-880                        5x2100SHD 2P       9x5     0.961 
+Scorpion SII-4020-630                        5x3200SHD          10x7    0.961 
+BP A5330-9                                   6x2100SHD          14x12   0.961 
+Dualsky XM7010MR-6.5                         6x2100SHD          12x8    0.961 
+FSD FC5065-5T                                4x3200SHD          12x9    0.961 
+Turnigy 3648-600                             4x3200SHD          12x8    0.961 
+Turnigy 4258-400                             5x2100SHD          13x8    0.960 
+FSD FC4260-5T                                4x3200SHD          12x7    0.960 
+Dualsky XM5060EA-6                           3x2100SHD 2P       15x15   0.960 
+Sunnysky X2820-1100KV                        4x2100SHD 2P       9x4.5   0.960 
+Mega L5                                      6x3200SHD          10x6    0.960 
+Scorpion SII-4020-540                        6x2100SHD          10x5    0.960 
+Neu 1512/2D-2600                             2x2100SHD 5P       9x4.5   0.960 
+Aveox 46/43/4                                6x2100SHD          13x9    0.960 
+Turnigy G32-530                              6x2100SHD          10x5.5  0.960 
+Great Planes Rimfire 42-50-800 (#4700)       4x2100SHD 2P       10x7    0.960 
+Dualsky XM5050EA-8                           4x3200SHD          12x9    0.960 
+FSD FBP3665/4Y                               4x2100SHD 2P       9x5     0.960 
+Kontronik KBM 67-07                          6x3200SHD          9x5     0.959 
+FSD FBP3665/2.5Y                             3x3200SHD 2P       9x4.5   0.959 
+Kontronik Tango 45-05 (20V)                  6x2100SHD          10x5.5  0.959 
+Kontronik Tango 45-04 (16V)                  6x2100SHD          12x6    0.959 
+Neu 1515/1.5D-2700                           2x2100SHD 6P       9x4.5   0.959 
+Hacker B50 15XL                              4x2100SHD 2P       9x5     0.959 
+Hyperion Zs4035-10                           4x3200SHD          15x14   0.959 
+Hacker A40 10L                               5x3200SHD          11x7    0.959 
+Aveox 36/38/1.5                              3x3200SHD 2P       9x4.5   0.959 
+Turnigy RotoMax 1.20 280                     6x2100SHD          14x11   0.959 
+Hyperion HP-Z4045-14                         6x2100SHD          15x13   0.959 
+Aveox 36/38/3                                6x3200SHD          9x4.5   0.959 
+Hacker B50 12XL                              4x2100SHD 3P       9x4.5   0.959 
+FSD FB3674/9T                                3x2100SHD 4P       9x4.5   0.959 
+MVVS 5.6/690 Glider                          5x3200SHD          10x6    0.959 
+Medusa Research 036-050-1300-3F              4x2100SHD 2P       8x4     0.959 
+Medusa Research 036-050-1300-5               4x2100SHD 2P       8x4     0.959 
+Feigao 540XL 24T (5408424XL)                 6x3200SHD          10x5.5  0.959 
+Purple Power PPO-3548-900                    6x3200SHD          8x4     0.959 
+Scorpion 4025-10                             4x3200SHD          13x9    0.959 
+Hyperion HP-Z4020-10                         4x2100SHD 2P       11x7    0.959 
+Pelikan RAY C3548/05                         6x3200SHD          8x4     0.958 
+Dualsky XM5015TE-6                           5x2100SHD          13x9    0.958 
+FSD FBP3665/3Y                               3x2100SHD 3P       10x5.5  0.958 
+Hacker A40 10S                               4x2100SHD 2P       10x5.5  0.958 
+Aveox 36/30/3                                6x2100SHD 2P       8x4     0.958 
+Hacker A60 20S                               6x2100SHD          15x12   0.958 
+Keda KB36-74-06XL                            2x2100SHD 6P       9x4.5   0.958 
+Turnigy G32-770                              5x3200SHD          10x5    0.958 
+FSD FBP3660/2Y                               2x3200SHD 3P       9x4.5   0.958 
+Purple Power PPO-5045-720                    5x3200SHD          10x5.5  0.958 
+Castle Creations Vertigo 500-3525            3x2100SHD 3P       9x5     0.958 
+Kontronik Tango 45-04 (24V)                  6x2100SHD          12x6    0.958 
+Hacker A40 10S V2 14-Pole                    4x3200SHD          11x5.5  0.958 
+Hacker A40 16S V2 8-Pole                     5x2100SHD 2P       9x4.5   0.958 
+Kontronik Tango 45-06 (20V)                  5x3200SHD          11x7    0.958 
+Turnigy 600-510 Heli                         4x3200SHD          12x10   0.958 
+Dualsky XM7015MR-5                           6x2100SHD          13x10   0.958 
+Sunnysky X2820-800KV                         6x3200SHD          9x4.5   0.957 
+E-Flite Power 32 Outrunner 770KV             5x3200SHD          10x5    0.957 
+Dualsky XM4250CA-6                           5x3200SHD          9x4.5   0.957 
+Feigao 540XL 10T (5408410XL)                 3x3200SHD 2P       9x4.5   0.957 
+Dualsky XM4250CA-7                           5x3200SHD          10x5.5  0.957 
+Hacker B50 22XL                              5x3200SHD          10x6    0.957 
+Kontronik KIRA 600-30 (12V)                  2x2100SHD 5P       8x4     0.957 
+Model Motors AXI AC5320/28                   6x2100SHD          15x13   0.957 
+EM Cyclon Premium 52                         4x3200SHD          11x7    0.957 
+Hacker A50 16L                               6x2100SHD          14x11   0.957 
+Purple Power PPO-5055-580                    4x3200SHD          12x8    0.957 
+Hacker C50 15XL                              4x2100SHD 2P       9x4.5   0.957 
+Dualsky XM5010TE-4                           6x3200SHD          8x4     0.957 
+Purple Power PPO-5065-380                    4x3200SHD          14x14   0.957 
+Hyperion Gs3025-04                           3x2100SHD 3P       9x4.5   0.957 
+Keda KB36-74-15XL                            4x2100SHD 2P       9x4.5   0.957 
+Hacker A30 8XL V3                            5x2100SHD 2P       8x4     0.957 
+Hyperion HP-Z4020-08                         5x2100SHD 2P       9x4.5   0.957 
+IFlight iBM2826-4                            5x2100SHD 2P       8x4     0.957 
+Hacker A40 8L                                4x2100SHD 2P       11x7    0.956 
+Hacker A50 10S Turnado                       3x2100SHD 2P       15x15   0.956 
+Actro 24-5                                   6x2100SHD          11x7    0.956 
+Hyperion HP-Z4035-14                         6x2100SHD          13x10   0.956 
+Turnigy Multistar 4230-400                   6x2100SHD          12x9    0.956 
+FSD FBP3665/5D                               3x2100SHD 3P       9x4.5   0.956 
+Mega ACn 22/45/1                             2x2100SHD 5P       9x4.5   0.956 
+FSD FBP3660/4.5D                             3x2100SHD 4P       8x4     0.956 
+Hacker A50 16S                               4x3200SHD          14x14   0.956 
+Medusa Research 036-050-0610-5               6x2100SHD          10x5    0.956 
+FSD FC6362-6T                                4x3200SHD          14x13   0.956 
+Hacker B50 23XL                              6x3200SHD          10x5.5  0.956 
+Sunnysky X3120-950KV                         4x2100SHD 2P       10x5.5  0.956 
+Hyperion HP-Z4035-10                         4x3200SHD          14x12   0.956 
+Hyperion Zs4025-10                           3x2100SHD 2P       14x13   0.956 
+FSD FBP4082/1.5Y                             2x2100SHD 5P       10x5    0.956 
+Hacker A50 10S                               3x2100SHD 2P       14x11   0.955 
+Hacker A40 8S                                2x3200SHD 2P       12x9    0.955 
+Feigao 540XL 12T (5408412XL)                 3x2100SHD 3P       10x5    0.955 
+Hacker A50 12L                               4x3200SHD          15x15   0.955 
+Hacker A50 14L                               6x2100SHD          13x9    0.955 
+IFlight iBM2826-6                            5x3200SHD          10x5.5  0.955 
+Turnigy Typhoon 650 Heli                     5x3200SHD          11x7    0.955 
+T-Motor MN5212 KV340                         6x2100SHD          13x10   0.955 
+Plettenberg Orbit 20-14                      5x2100SHD 2P       9x4.5   0.955 
+Neu 1512/3D-1700                             3x2100SHD 3P       9x4.5   0.955 
+Keda KB36-74-12XL                            3x2100SHD 3P       10x5    0.955 
+Kontronik KIRA 650-13 (12V)                  4x2100SHD 3P       9x4.5   0.955 
+Feigao 540XL 7T (5408407XL)                  2x3200SHD 3P       9x4.5   0.955 
+FSD FC4250-7T                                6x3200SHD          9x5     0.955 
+Turnigy G15-710                              5x3200SHD          10x6    0.955 
+Hyperion HP-Z4035-12                         6x2100SHD          13x8    0.955 
+Turnigy Multistar 4830-480                   6x2100SHD          11x6    0.955 
+FSD FBP3660/5D                               3x3200SHD 2P       8x4     0.955 
+FSD FC5055-8T                                4x3200SHD          12x10   0.955 
+O.S.Motor OMA-5025-375                       4x3200SHD          14x14   0.954 
+Hyperion Zs3025-06                           3x2100SHD 3P       10x5.5  0.954 
+FSD FC3548-7T                                6x2100SHD          10x5    0.954 
+Hacker A50 12S                               4x3200SHD          12x10   0.954 
+Sunnysky X3120-1100KV                        5x2100SHD 2P       8x4     0.954 
+Actro 40-5                                   6x2100SHD          15x13   0.954 
+Hyperion Gs3020-06                           3x2100SHD 3P       9x5     0.954 
+Hacker C50 14XL                              5x2100SHD 2P       8x4     0.954 
+Hyperion Zs4025-14                           4x3200SHD          15x14   0.954 
+Aveox 46/43/5                                6x2100SHD          15x12   0.954 
+Dualsky XM4260CA-6                           4x3200SHD          12x9    0.954 
+Great Planes Rimfire 50-65-450 (#4770)       4x3200SHD          13x11   0.954 
+Dualsky XM3548CA-5                           5x3200SHD          9x4.5   0.954 
+T-Motor MN4012 KV480                         6x2100SHD          11x6    0.954 
+Dualsky XM5015TE-4                           4x3200SHD          12x9    0.954 
+Hacker A30 12XL Glider                       5x3200SHD          10x6    0.954 
+Hacker A30 12XL V3                           5x3200SHD          10x6    0.954 
+Turnigy Multistar 4014-400                   6x2100SHD          12x8    0.954 
+Dualsky XM5050EA-6                           6x3200SHD          9x5     0.953 
+MVVS 4.6/1120 Sport                          5x2100SHD 2P       8x4     0.953 
+Hacker A50 8S Turnado V3                     5x2100SHD 2P       9x5     0.953 
+Mega ACn 22/30/3E                            4x2100SHD 2P       10x5    0.953 
+Mega RC 600/10/11                            4x2100SHD 2P       9x4.5   0.953 
+Keda KB36-74-07XL                            2x2100SHD 5P       9x4.5   0.953 
+FSD FB4465/9T                                3x3200SHD 3P       8x4     0.953 
+Dualsky XM5015MR-7                           6x2100SHD          13x10   0.953 
+Dualsky XM7015MR-4.5                         6x2100SHD          12x8    0.953 
+Great Planes Rimfire 42-40-800 (#4670)       6x3200SHD          9x4.5   0.953 
+Hyperion HP-Z4025-12                         4x3200SHD          13x10   0.953 
+Keda KB36-74-13XL                            4x2100SHD 3P       9x4.5   0.953 
+Hyperion HP-Z5025-20                         6x2100SHD          15x12   0.953 
+O.S.Motor OMA-3825-750                       5x3200SHD          10x5.5  0.953 
+Dualsky XM5015TE-7MR                         6x2100SHD          13x10   0.953 
+Hacker A30 12XL                              5x3200SHD          10x5.5  0.953 
+FSD FBP3660/2.5Y                             3x2100SHD 4P       8x4     0.953 
+Scorpion SII-3026-1190                       2x2100SHD 3P       12x8    0.953 
+Mega RC 600/20/6                             4x2100SHD 2P       9x4.5   0.953 
+Aveox V12                                    6x2100SHD          10x5    0.953 
+Scorpion SII-3014-830                        5x3200SHD          9x5     0.952 
+FSD FC5055-16T                               6x2100SHD          14x14   0.952 
+Dualsky XM4250CA-10                          6x2100SHD          10x5.5  0.952 
+Hyperion Zs4025-16                           6x2100SHD          13x9    0.952 
+Hacker A30 14L V3                            6x3200SHD          9x4.5   0.952 
+EM Twister 29/60                             5x3200SHD          11x7    0.952 
+EM Cyclon Classic 60                         5x3200SHD          11x7    0.952 
+Danlion Pulso X4130/20                       6x2100SHD          13x11   0.952 
+T-Motor MN4010 KV475 (est)                   6x2100SHD          11x6    0.952 
+Hyperion Zs3014-14                           5x2100SHD 2P       9x4.5   0.952 
+Sunnysky X3114-1100KV                        4x2100SHD 2P       9x4.5   0.952 
+Hacker A30 8XL                               5x2100SHD 2P       8x4     0.952 
+Neu 1515/2.5D-1700                           3x2100SHD 4P       9x4.5   0.952 
+Feigao 540XL 13T (5408413XL)                 4x2100SHD 3P       9x4.5   0.952 
+Hyperion Gs3032-04                           3x2100SHD 3P       10x5.5  0.952 
+Mega ACn 16-35-2C                            3x2100SHD 3P       8x4     0.952 
+Hacker A30 10XL                              6x3200SHD          8x4     0.952 
+Scorpion SII-3014-1040                       4x2100SHD 2P       10x5    0.952 
+Purple Power PPO-5065-320                    6x2100SHD          13x9    0.952 
+Hyperion HP-Z3019-12                         6x3200SHD          8x4     0.952 
+FSD FBP4074/3D                               2x2100SHD 6P       9x4.5   0.952 
+Sunnysky X3114-900KV                         5x3200SHD          9x4.5   0.951 
+Dualsky XM4260CA-5                           5x3200SHD          10x6    0.951 
+Dualsky XM4255EA-8                           6x2100SHD          11x6    0.951 
+Keda KB36-74-10XL                            3x3200SHD 2P       9x4.5   0.951 
+EM Cyclon Classic 40                         5x2100SHD 2P       9x4.5   0.951 
+EM Twister 19/40                             5x2100SHD 2P       9x4.5   0.951 
+Kontronik KIRA 600-24 (12V)                  2x3200SHD 3P       9x5     0.951 
+Turnigy G32-600                              4x3200SHD          12x9    0.951 
+Neu 1509/1.5Y-2400                           2x3200SHD 3P       9x4.5   0.951 
+FSD FC5065-4T                                4x2100SHD 2P       11x8    0.951 
+Scorpion SII-3032-690                        5x3200SHD          10x6    0.951 
+Welgard C6362-10                             6x2100SHD          14x10   0.951 
+Hyperion HP-Z4025-16                         6x2100SHD          12x8    0.951 
+Scorpion HK-3026-1210                        4x2100SHD 2P       9x4.5   0.951 
+Feigao 540XL 9T (5408409XL)                  3x3200SHD 2P       8x4     0.951 
+Hacker B50 13XL                              4x2100SHD 3P       9x5     0.951 
+Plettenberg Orbit 20-16                      5x3200SHD          10x6    0.951 
+Great Planes Rimfire 50-55-500 (#4740)       4x3200SHD          13x10   0.950 
+Hyperion HP-Z3025-10                         5x3200SHD          9x5     0.950 
+Mega ACn 22/30/4                             6x3200SHD          8x4     0.950 
+FSD FB3674/10T                               3x3200SHD 2P       9x4.5   0.950 
+Aveox 1412/4Y Sport 40                       6x3200SHD          10x5    0.950 
+Actro 24-4                                   5x3200SHD          11x8    0.950 
+Dualsky XM4240CA-12                          5x3200SHD          9x5     0.950 
+FSD FBP4092/2.5D                             2x3200SHD 3P       10x5    0.950 
+Hacker C50 13XL                              4x2100SHD 3P       9x4.5   0.950 
+Hyperion HP-Z4025-10                         4x3200SHD          12x8    0.950 
+FSD FBP3665/2Y                               2x2100SHD 4P       10x5    0.950 
+T-Motor MN3510 KV630                         6x2100SHD          9x5     0.950 
+Hacker A40 8L V2 8-Pole                      3x2100SHD 3P       10x6    0.950 
+Mega ACn 16-25-2EC                           2x2100SHD 4P       9x4.5   0.950 
+Feigao 540XL 25T (5408425XL)                 6x3200SHD          10x5.5  0.950 
+Great Planes Rimfire 50-65-300 (#4765)       6x2100SHD          13x10   0.950 
+Purple Power PPO-5045-890                    4x2100SHD 2P       10x6    0.950 
+Danlion Pulso X4120/14                       5x3200SHD          10x6    0.949 
+FSD FBP3660/3D                               2x2100SHD 6P       8x4     0.949 
+Aveox 1817/2Y                                6x3200SHD          10x5    0.949 
+Model Motors AXI AC5330/F3A                  6x2100SHD          15x13   0.949 
+FSD FC3542-5T                                4x2100SHD 2P       9x5     0.949 
+Hacker B50 26L                               6x3200SHD          8x4     0.949 
+FSD FB3674/7T                                2x3200SHD 3P       9x4.5   0.949 
+FSD F700-460                                 4x3200SHD          13x11   0.949 
+Dualsky XM4614MR-9                           6x2100SHD          12x9    0.949 
+Aveox 1817/3Y                                5x3200SHD          13x11   0.949 
+Scorpion 3026-10                             6x2100SHD 2P       8x4     0.949 
+T-Motor MN4010 KV580                         6x2100SHD          10x5    0.949 
+Dualsky XM5010MR-9                           6x2100SHD          12x9    0.949 
+Mega RC 600/20/5                             3x2100SHD 3P       10x5    0.949 
+Neu 1415/1Y                                  2x3200SHD 3P       10x5.5  0.949 
+Hyperion HP-Z3019-10                         4x2100SHD 2P       9x4.5   0.949 
+FSD FC3548-6T                                5x3200SHD          10x6    0.948 
+Great Planes Rimfire 42-60-480 (#4715)       6x2100SHD          11x6    0.948 
+Hacker B50 24XL                              5x3200SHD          11x7    0.948 
+EM Cyclon Premium 32                         5x2100SHD 2P       9x4.5   0.948 
+T-Motor MN3510 KV700                         6x2100SHD          9x4.5   0.948 
+T-Motor U3 KV700                             6x2100SHD          9x4.5   0.948 
+Hyperion HP-Z4045-10                         6x2100SHD          13x9    0.948 
+T-Motor MN4014 KV400                         6x2100SHD          12x8    0.948 
+Dualsky XM5010MR-7.5                         6x2100SHD          11x6    0.948 
+Dualsky XM5010TE-9                           6x2100SHD          12x9    0.948 
+Hyperion HP-Z3025-08                         5x2100SHD 2P       9x4.5   0.948 
+Dualsky XM4260CA-4                           4x2100SHD 2P       10x6    0.948 
+Turnigy Multistar 5130-350                   6x2100SHD          13x10   0.948 
+Kontronik Fun 600-11 (24V)                   5x2100SHD 2P       8x4     0.948 
+Kontronik Fun 600-11 (12V)                   5x2100SHD 2P       8x4     0.948 
+Scorpion SII-3014-1220                       4x2100SHD 2P       9x4.5   0.947 
+Model Motors AXI AC5325/18 Gold              6x2100SHD          13x10   0.947 
+Keda KB36-74-09XL                            2x2100SHD 4P       10x5    0.947 
+Turnigy 3648-850                             5x3200SHD          9x4.5   0.947 
+Medusa Research 028-056-1900                 3x3200SHD 2P       8x4     0.947 
+T-Motor MN4012 KV400                         6x2100SHD          12x8    0.947 
+Mega ACn 22/45/2                             4x2100SHD 3P       9x4.5   0.947 
+Danlion Pulso X4120/18                       6x2100SHD          10x5.5  0.947 
+Scorpion 3032-8                              5x2100SHD 2P       9x4.5   0.947 
+Feigao 540XL 8T (5408408XL)                  2x3200SHD 3P       10x5.5  0.947 
+Mega AC 22/45/2                              4x2100SHD 3P       9x4.5   0.947 
+FSD FC3542-7T                                5x3200SHD          10x5.5  0.947 
+FSD FBP3665/2.5D                             2x3200SHD 4P       8x4     0.947 
+Turnigy Multistar 4010-485                   6x2100SHD          11x6    0.947 
+Keda KB36-74-08XL                            2x3200SHD 3P       10x5.5  0.947 
+FSD FBP3665/3D                               2x2100SHD 5P       9x4.5   0.946 
+Mega RC 53/30/11                             6x2100SHD          15x13   0.946 
+Plettenberg HP 370/30/A1                     5x2100SHD 2P       8x4     0.946 
+FSD FC3542-9T                                6x2100SHD          10x5    0.946 
+Dualsky XM5010TE-9MR                         6x2100SHD          12x9    0.946 
+Scorpion HK-3026-1600                        3x2100SHD 3P       9x4.5   0.946 
+Hyperion Gs3014-10                           4x2100SHD 2P       8x4     0.946 
+Feigao 540XL 26T (5408426XL)                 6x3200SHD          10x6    0.946 
+Plettenberg HP 370/30/A2 S SL                6x3200SHD          10x5.5  0.946 
+Actro 24-6                                   6x2100SHD          13x8    0.946 
+Graupner Ultra Brushless 300/30-2 #6384      5x2100SHD 2P       9x5     0.946 
+Hyperion Zs4035-12                           6x2100SHD          13x10   0.946 
+Mega ACn 16-25-2                             2x3200SHD 3P       9x4.5   0.946 
+Mega RC 53/30/8                              5x3200SHD          15x14   0.946 
+Great Planes Rimfire 50-55-650 (#4745)       6x3200SHD          10x5.5  0.946 
+Dualsky XM5015TE-3                           5x3200SHD          10x5    0.946 
+Aveox 36/30/2                                3x2100SHD 3P       10x5    0.946 
+Hyperion HP-Z3025-06                         3x2100SHD 3P       10x6    0.946 
+Sunnysky X3525-880KV                         6x3200SHD          8x4     0.946 
+Scorpion 3026-12                             5x3200SHD          9x4.5   0.945 
+Hacker B50 21L                               5x2100SHD 2P       8x4     0.945 
+Model Motors AXI AC4130/16                   6x2100SHD          12x8    0.945 
+Scorpion HK-3226-1400                        3x2100SHD 3P       10x5    0.945 
+Suppo A5330-10                               6x2100SHD          15x15   0.945 
+Scorpion 3032-10                             5x3200SHD          9x4.5   0.945 
+Plettenberg Orbit 25-16                      6x3200SHD          10x5.5  0.945 
+Mega RC 600/30/7                             6x2100SHD          9x4.5   0.945 
+Dualsky XM3542CA-5                           5x2100SHD 2P       8x4     0.945 
+Dualsky XM3548CA-4                           4x2100SHD 2P       9x4.5   0.945 
+Turnigy Multistar 4225-610                   6x2100SHD          10x5    0.945 
+Model Motors AXI AC4120/14                   6x3200SHD          10x5.5  0.945 
+Turnigy 3648-1450                            4x2100SHD 3P       8x4     0.945 
+Keda KB36-74-14XL                            4x2100SHD 3P       10x5    0.945 
+FSD FB3674/12T                               3x2100SHD 3P       10x5    0.945 
+Model Motors AXI AC2826/10                   6x3200SHD          8x4     0.944 
+Aveox 1415/2Y                                4x2100SHD 3P       10x5    0.944 
+Turnigy Multistar 4822-570                   6x2100SHD          10x5    0.944 
+Plettenberg HP 370/30/A2 SL                  5x3200SHD          11x7    0.944 
+Feigao 540XL 14T (5408414XL)                 4x2100SHD 3P       10x5    0.944 
+Turnigy D3548/6 790                          6x3200SHD          9x4.5   0.944 
+Purple Power PPO-3548-1100                   4x2100SHD 2P       9x4.5   0.944 
+Dualsky XM5010TE-5                           5x3200SHD          10x6    0.944 
+Scorpion M-4015-340                          6x2100SHD          13x11   0.944 
+Turnigy Multistar 4010-580                   6x2100SHD          10x5    0.944 
+Kontronik KIRA 600-16 (12V)                  3x2100SHD 3P       9x4.5   0.944 
+Hacker A40 10S V2 8-Pole                     3x2100SHD 3P       9x4.5   0.944 
+Neu 1521/1D                                  2x3200SHD 5P       9x4.5   0.944 
+Mega ACn 16-30-2                             2x2100SHD 4P       9x5     0.944 
+T-Motor MN3520 KV400                         6x2100SHD          12x8    0.944 
+FSD F700-500                                 4x3200SHD          13x9    0.944 
+Neu 3D-2700                                  2x2100SHD 5P       9x4.5   0.944 
+Great Planes Rimfire 42-60-600 (#4720)       5x3200SHD          11x7    0.944 
+Mega RC 41/30/15                             4x3200SHD          14x12   0.944 
+Hacker B50 14L                               3x3200SHD 2P       9x4.5   0.943 
+FSD F700-550                                 4x2100SHD 2P       13x10   0.943 
+Dualsky XM4250CA-5                           4x2100SHD 2P       9x5     0.943 
+Hacker B50 25L                               6x3200SHD          8x4     0.943 
+Welgard C3548-05                             6x3200SHD          8x4     0.943 
+T-Motor MT3515 KV650                         5x3200SHD          10x7    0.943 
+Suppo A4120-6                                5x3200SHD          11x7    0.943 
+Aveox 1412/3Y Neodym                         5x2100SHD 2P       9x5     0.943 
+Mega ACn 16-35-1.5SC                         2x2100SHD 4P       9x5     0.942 
+Actro 40-4                                   6x2100SHD          13x9    0.942 
+Plettenberg Orbit 25-18                      5x3200SHD          11x7    0.942 
+Hacker A40 12S V2 8-Pole                     4x2100SHD 3P       9x4.5   0.942 
+Dualsky XM5010TE-6                           6x2100SHD          10x5    0.942 
+EM Cyclon Power 45                           3x2100SHD 3P       10x6    0.942 
+Turnigy 4258-800                             5x2100SHD 2P       10x5.5  0.942 
+FSD FBP3665/3.5Y                             4x2100SHD 2P       9x4.5   0.942 
+T-Motor MT3515 KV400                         6x2100SHD          12x8    0.942 
+T-Motor MN3515 KV400                         6x2100SHD          12x9    0.942 
+Feigao 540XL 29T (5408429XL)                 6x2100SHD          10x5    0.942 
+T-Motor U5 KV400                             6x2100SHD          12x9    0.942 
+Graupner Ultra 1800-5 Neo 18V #3311 '94      6x3200SHD          10x5    0.941 
+Neu 1905/1.5Y                                4x2100SHD 2P       8x4     0.941 
+Hacker A30 12L V3                            5x2100SHD 2P       9x4.5   0.941 
+BP 4120-7                                    5x3200SHD          11x7    0.941 
+Aveox 1412/2Y                                3x2100SHD 3P       10x5    0.941 
+Sunnysky X3114-1000KV                        5x2100SHD 2P       9x4.5   0.941 
+Dualsky XM3548CA-6                           5x3200SHD          10x6    0.941 
+Hacker A30 18L UAV                           6x3200SHD          10x5.5  0.941 
+Suppo A4130-7                                6x2100SHD          12x8    0.941 
+BP 4130-8                                    6x2100SHD          12x8    0.941 
+Hyperion HP-Z3025-12                         5x3200SHD          10x6    0.941 
+T-Motor MN4014 KV330                         6x2100SHD          13x11   0.941 
+T-Motor Antigravity MN4014 KV330             6x2100SHD          13x11   0.941 
+Scorpion 3032-12                             5x3200SHD          10x6    0.940 
+Turnigy 4240-800                             5x3200SHD          10x5.5  0.940 
+Plettenberg HP 300/20/A3 S                   4x2100SHD 2P       9x5     0.940 
+Turnigy G25-710                              5x3200SHD          10x6    0.940 
+Plettenberg HP 355/45/05 Evolution           6x3200SHD          11x7    0.940 
+Hacker B50 23L                               5x2100SHD 2P       9x4.5   0.940 
+Turnigy Multistar 4830-420                   6x2100SHD          12x7    0.940 
+Turnigy Multistar 4014-320                   6x2100SHD          13x11   0.940 
+FSD FBP4092/5D                               5x2100SHD 3P       9x4.5   0.939 
+Turnigy Multistar 3508-580                   6x2100SHD          10x5    0.939 
+Mega ACn 16-25-3                             3x2100SHD 3P       9x4.5   0.939 
+E-Flite Power 25 Outrunner 870KV             5x3200SHD          9x4.5   0.939 
+Aveox 36/30/4                                6x3200SHD          10x5    0.939 
+FSD FC3536-8T                                5x3200SHD          9x4.5   0.939 
+Purple Power PPI-3657-1200                   5x2100SHD 2P       8x4     0.939 
+Turnigy G25-870                              5x3200SHD          9x4.5   0.939 
+MVVS 3.5/960                                 5x3200SHD          9x4.5   0.939 
+Hacker C50 13L                               3x3200SHD 2P       8x4     0.939 
+Actro 24-3                                   6x3200SHD          9x4.5   0.939 
+Sunnysky X2814-900KV                         5x3200SHD          9x4.5   0.939 
+Feigao 540XL 28T (5408428XL)                 6x3200SHD          10x7    0.939 
+Hacker B50 25XL                              6x3200SHD          10x6    0.939 
+Hacker B50 26XL                              6x2100SHD          10x5    0.938 
+Dualsky XM3542CA-6                           5x3200SHD          9x4.5   0.938 
+Danlion Pulso X2826/10                       6x3200SHD          8x4     0.938 
+Model Motors AXI AC5330/18                   6x2100SHD          14x12   0.938 
+Turnigy Multistar 4112-485                   6x2100SHD          11x6    0.938 
+Feigao 540L 23T (5408423L)                   6x2100SHD 2P       8x4     0.938 
+Neu 1905/3Y                                  6x3200SHD          10x5    0.938 
+Hacker C50 17L                               4x2100SHD 3P       9x4.5   0.937 
+Aveox F27 (w/o gearbox)                      3x3200SHD 2P       10x5    0.937 
+T-Motor MN5208 KV340                         6x2100SHD          13x10   0.937 
+Kontronik KBM 39-10                          5x2100SHD 2P       9x4.5   0.937 
+O.S.Motor OMA-3820-1200                      4x2100SHD 2P       9x4.5   0.937 
+Feigao 540XL 31T (5408431XL)                 6x2100SHD          11x5.5  0.937 
+FSD FBP3665/3.5D                             2x3200SHD 3P       10x5    0.937 
+Scorpion SII-3032-990                        5x2100SHD 2P       9x4.5   0.937 
+Hacker A30 12L                               5x2100SHD 2P       9x4.5   0.937 
+Kontronik Fun 600-32 (12V)                   2x2100SHD 6P       8x4     0.937 
+MVVS 3.5/1200                                4x2100SHD 2P       9x4.5   0.937 
+EM Cyclon Classic 30                         5x3200SHD          9x4.5   0.937 
+Hacker B50 15L                               3x2100SHD 3P       9x4.5   0.937 
+IFlight iBM2820-6                            5x2100SHD 2P       9x4.5   0.937 
+Turnigy XK4074-B-1400                        3x3200SHD 2P       10x5    0.937 
+FSD FB3674/8T                                2x3200SHD 3P       10x5.5  0.936 
+Feigao 540XL 34T (5408434XL)                 6x2100SHD          11x6    0.936 
+Dualsky XM4608MR-10                          6x2100SHD          10x5    0.936 
+Mega ACn 16-35-1.5RC                         2x2100SHD 5P       9x4.5   0.936 
+Robbe PRO 740/6 32.4V #4771                  6x3200SHD          11x7    0.936 
+FSD FC3542-10T                               6x2100SHD          10x5.5  0.936 
+Feigao 540L 26T (5408426L)                   6x3200SHD          8x4     0.936 
+BP A2826-4                                   5x2100SHD 2P       9x4.5   0.936 
+Pelikan RAY C3548/06                         6x3200SHD          9x4.5   0.936 
+Welgard C5055-08                             5x3200SHD          12x9    0.936 
+Aveox 36/30/1.5                              2x2100SHD 4P       10x5    0.936 
+Feigao 540XL 27T (5408427XL)                 6x3200SHD          11x6    0.936 
+Suppo A2826-4                                5x2100SHD 2P       9x4.5   0.936 
+Welgard C5055-06                             4x2100SHD 2P       12x9    0.936 
+FSD FBP3665/4.5D                             3x2100SHD 4P       9x4.5   0.936 
+Aveox 1412/5Y Pattern 40                     6x2100SHD          10x5    0.935 
+Purple Power PPO-3548-790                    6x3200SHD          9x4.5   0.935 
+Kontronik KIRA 600-22 (12V)                  2x2100SHD 4P       10x5    0.935 
+Turnigy Multistar 4822-690                   6x2100SHD          9x4.5   0.935 
+RC-Timer 3542-6                              5x2100SHD 2P       9x4.5   0.935 
+Hacker C50 14L                               3x3200SHD 2P       9x4.5   0.935 
+Hacker A40 6L                                3x2100SHD 3P       11x7    0.935 
+Mega RC 41/30/10                             4x2100SHD 2P       12x9    0.935 
+Turnigy D3548/4 1100                         5x2100SHD 2P       8x4     0.935 
+FSD FBP3660/4D                               2x3200SHD 3P       9x5     0.935 
+Aveox 36/38/2                                4x2100SHD 3P       10x5    0.935 
+FSD FB3665/11T                               3x3200SHD 2P       8x4     0.935 
+Suppo A4120-7                                5x3200SHD          12x8    0.935 
+Mega ACn 16-25-6                             5x3200SHD          9x4.5   0.935 
+Dualsky XM4240CA-10                          5x3200SHD          8x4     0.935 
+Mega RC 41/30/12                             4x2100SHD 2P       13x11   0.935 
+Model Motors AXI AC4130/20                   6x2100SHD          14x10   0.935 
+Hacker C50 15L                               3x3200SHD 2P       9x4.5   0.935 
+Hacker B50 13L                               3x2100SHD 3P       8x4     0.935 
+Dualsky XM3542MR-11.5                        6x2100SHD          11x7    0.935 
+Scorpion HK-3026-1900                        3x3200SHD 2P       8x4     0.935 
+BP 3520-6                                    6x3200SHD          9x4.5   0.934 
+Feigao 540XL 30T (5408430XL)                 6x2100SHD          10x5.5  0.934 
+FSD FC3542-8T                                6x2100SHD          9x4.5   0.934 
+Turnigy Multistar 4822-490                   6x2100SHD          11x6    0.934 
+Dualsky XM5010MR-11                          6x2100SHD          13x11   0.934 
+Turnigy G10-1200                             4x2100SHD 2P       9x4.5   0.934 
+Hacker A30 30M UAV                           6x2100SHD          10x5.5  0.934 
+FSD FC3536-7T                                5x3200SHD          8x4     0.934 
+FSD FBP3660/3.5Y                             3x2100SHD 3P       10x5    0.934 
+E-Flite Power 15 Outrunner 950KV             5x2100SHD 2P       9x4.5   0.934 
+FSD FB4465/10T                               3x2100SHD 5P       9x4.5   0.934 
+Feigao 540XL 33T (5408433XL)                 6x2100SHD          11x6    0.934 
+Turnigy G15-950                              5x2100SHD 2P       9x4.5   0.934 
+Turnigy 3639-750                             5x3200SHD          10x5.5  0.933 
+T-Motor MT3520 KV300                         6x2100SHD          13x12   0.933 
+Turnigy 4250-580                             4x3200SHD          12x9    0.933 
+Mega S5                                      6x2100SHD 2P       9x4.5   0.933 
+Turnigy 3639-1100                            4x2100SHD 2P       9x4.5   0.933 
+Plettenberg Orbit 15-16                      4x2100SHD 2P       9x5     0.933 
+Neu 1509/2.5D-2700                           2x3200SHD 3P       9x4.5   0.933 
+Suppo A3520-6                                6x3200SHD          9x4.5   0.933 
+T-Motor MN3508 KV700                         6x2100SHD          9x4.5   0.933 
+Aveox 1415/1.5Y                              2x3200SHD 3P       10x6    0.933 
+Mega S7                                      6x3200SHD          10x6    0.932 
+Feigao 540L 25T (5408425L)                   6x3200SHD          8x4     0.932 
+Medusa Research 036-050-3300-5               2x3200SHD 4P       8x4     0.932 
+Medusa Research 036-050-3300-3F              2x3200SHD 4P       8x4     0.932 
+Hacker A30 28L UAV                           6x2100SHD          12x7    0.932 
+Medusa Research 028-056-1400                 4x2100SHD 3P       9x4.5   0.932 
+MVVS 3.5/1200 Sport                          4x2100SHD 2P       9x4.5   0.932 
+Turnigy 4250-1000                            4x2100SHD 2P       9x5     0.932 
+Hacker C50 10L                               2x3200SHD 3P       9x4.5   0.932 
+Turnigy 700-530 Heli                         6x3200SHD          10x7    0.932 
+Kontronik KBM 77-09                          6x2100SHD 2P       9x4.5   0.932 
+Plettenberg HP 370/50/A2                     5x3200SHD          14x13   0.931 
+Turnigy Shaft-Free 3528-450                  5x3200SHD          12x9    0.931 
+T-Motor MN4010 KV370                         6x2100SHD          12x9    0.931 
+FSD FBP3660/3.5D                             2x3200SHD 3P       9x4.5   0.931 
+Hacker B50 10L                               2x3200SHD 3P       9x5     0.931 
+Turnigy G25-610                              5x3200SHD          11x7    0.931 
+Hacker B50 17L                               4x2100SHD 3P       9x4.5   0.930 
+Suppo A2826-5                                5x3200SHD          9x5     0.930 
+Kontronik KBM 77-04                          6x2100SHD          12x7    0.930 
+Mega ACn 16-25-1.5SC                         2x3200SHD 3P       8x4     0.930 
+Great Planes Rimfire 42-60-800 (#4725)       5x2100SHD 2P       10x5.5  0.930 
+Feigao 540XL 32T (5408432XL)                 6x2100SHD          11x6    0.930 
+Plettenberg HP 370/40/A2                     5x3200SHD          13x11   0.930 
+Dualsky XM3542MR-7.5                         6x2100SHD          9x4.5   0.930 
+Hacker B50 24L                               5x2100SHD 2P       9x4.5   0.930 
+Mega ACn 16-25-4                             3x2100SHD 2P       10x5    0.930 
+Hyperion Zs4045-10                           5x3200SHD          15x15   0.929 
+Dualsky XM3542CA-7                           6x3200SHD          9x4.5   0.929 
+Kontronik BL600-17 (12V)                     3x3200SHD 2P       9x4.5   0.929 
+Purple Power PPO-4250-600                    5x3200SHD          11x7    0.929 
+T-Motor MT2820 KV830                         6x3200SHD          9x4.5   0.929 
+Plettenberg HP 355/40/06 Evolution           6x3200SHD          11x8    0.928 
+Plettenberg HP 355/37/05                     6x3200SHD          10x5    0.928 
+Model Motors AXI AC2826/12                   6x3200SHD          9x5     0.928 
+Danlion Pulso X2820/12                       6x3200SHD          8x4     0.928 
+Feigao 540L 29T (5408429L)                   6x3200SHD          9x4.5   0.928 
+IFlight iBM3520-6                            6x3200SHD          9x4.5   0.928 
+Dualsky XM5010TE-11MR                        6x2100SHD          13x11   0.928 
+Mega AC 22/30/4                              5x3200SHD          9x4.5   0.928 
+Neu 1706/1.5Y                                3x2100SHD 2P       10x5    0.928 
+Mega L3                                      5x2100SHD 2P       9x4.5   0.928 
+Plettenberg HP 355/15/B18 P10 Orbt 15/18     5x2100SHD 2P       9x4.5   0.928 
+Great Planes Ammo 36-56-1200 (#5310)         4x2100SHD 2P       9x4.5   0.927 
+FSD FC3548-10T                               6x2100SHD          12x8    0.927 
+Hacker A30 10L V3                            4x2100SHD 2P       9x4.5   0.927 
+Feigao 540L 28T (5408428L)                   6x3200SHD          9x4.5   0.927 
+Aveox 27/39/1                                2x2100SHD 5P       8x4     0.927 
+Mega AC 22/30/2                              3x2100SHD 4P       9x4.5   0.927 
+Graupner Ultra Brushless 300/30-3 #6385      5x3200SHD          11x8    0.927 
+Hyperion Zs3009-20                           4x3200SHD          9x4.5   0.926 
+Graupner Ultra 3450-7 28V #6345              6x3200SHD          12x10   0.926 
+Purple Power PPO-4250-800                    6x3200SHD          9x4.5   0.926 
+Jeti Phasor 45-3                             6x2100SHD 2P       9x5     0.926 
+Keda KB36-60-20L                             5x2100SHD 2P       8x4     0.926 
+Kontronik Fun 600-18 (12V)                   3x2100SHD 4P       9x4.5   0.926 
+Hacker B50 9L                                2x3200SHD 3P       9x4.5   0.925 
+Feigao 540L 21T (5408421L)                   5x2100SHD 2P       8x4     0.925 
+Scorpion 3020-16                             6x3200SHD          9x4.5   0.925 
+Mega ACn 16-20-2                             2x2100SHD 5P       8x4     0.925 
+Turnigy 500-1600 Heli                        3x3200SHD 2P       9x4.5   0.925 
+Plettenberg HP 355/45/04 Evolution           6x2100SHD 2P       10x6    0.925 
+Hacker B50 20L                               4x2100SHD 2P       9x4.5   0.925 
+Turnigy 3580-700                             6x2100SHD          9x4.5   0.925 
+Mega AC 22/30/3                              4x2100SHD 2P       8x4.5   0.925 
+Kontronik KBM 39-4                           6x2100SHD          12x8    0.924 
+Actro 12-6                                   6x3200SHD          10x5    0.924 
+Mega ACn 16-25-5                             5x3200SHD          8x4     0.924 
+Model Motors AXI AC4120/18                   6x2100SHD          11x5.5  0.924 
+Flyware LRK 350/25-12.5W 14-pole             6x3200SHD          10x5.5  0.924 
+T-Motor MN3110 KV700                         6x2100SHD          9x4.5   0.924 
+Dualsky XM4010MR-7.5                         6x2100SHD          10x5    0.924 
+Plettenberg HP 370/20/A3                     6x2100SHD          10x5    0.924 
+Kontronik KIRA 500-30 (12V)                  2x3200SHD 3P       8x4     0.924 
+Sunnysky X2814-1000KV                        4x3200SHD          9x5     0.924 
+Dualsky XM4608MR-8.5                         6x2100SHD          9x4.5   0.924 
+Hacker B50 22L                               5x3200SHD          8x4     0.924 
+EM Cyclon NFS 1600                           3x3200SHD 2P       9x4.5   0.924 
+Robbe PRO 736/5 24V #4770                    6x3200SHD          10x5    0.924 
+Graupner Ultra 3300-7H 20V #6362             6x3200SHD          11x7    0.924 
+Hacker B50 16L                               3x2100SHD 3P       10x5    0.923 
+Great Planes Ammo 36-56-2600 (#5320)         2x3200SHD 3P       9x4.5   0.923 
+Aveox 1412/1.5Y                              2x3200SHD 3P       10x6    0.923 
+BP A2826-6                                   6x3200SHD          10x5    0.923 
+Dualsky XM4240CA-14                          6x3200SHD          10x5    0.923 
+IFlight iBM3520-7                            5x3200SHD          11x7    0.923 
+Danlion Pulso X2820/14                       6x3200SHD          9x4.5   0.923 
+Suppo A2826-6                                6x3200SHD          10x5    0.923 
+HiMaxx HB3630-1500                           3x3200SHD 2P       9x4.5   0.922 
+Astro Brushless 40 5T#18 #840GM              6x2100SHD 2P       8x4     0.922 
+Hacker C50 16L                               3x3200SHD 2P       10x5    0.922 
+FSD FBP3650/6Y                               4x2100SHD 2P       9x4.5   0.922 
+Hacker B50 18L                               4x2100SHD 2P       8x4     0.922 
+Plettenberg HP 355/40/04 Evolution           6x2100SHD 2P       10x5    0.922 
+Kontronik KIRA 600-20 (12V)                  2x2100SHD 4P       10x5.5  0.922 
+Hacker B50 8L                                2x2100SHD 5P       8x4     0.922 
+Great Planes Ammo 36-56-1800 (#5315)         3x2100SHD 4P       9x4.5   0.922 
+Aveox 36/38/4                                6x3200SHD          11x7    0.922 
+Feigao 540L 20T (5408420L)                   5x2100SHD 2P       8x4     0.922 
+Feigao 540L 13T (5408413L)                   3x3200SHD 2P       8x4     0.921 
+Danlion Pulso X2826/8                        5x2100SHD 2P       8x4     0.921 
+Actro 12-5                                   5x3200SHD          9x4.5   0.921 
+EM Cyclon Elite 24                           4x2100SHD 4P       8x4     0.921 
+Purple Power PPO-4260-600                    4x2100SHD 2P       12x9    0.921 
+Turnigy D3542/6 1000                         5x3200SHD          8x4     0.921 
+Turnigy XK3674-B-2200                        2x3200SHD 3P       10x5.5  0.921 
+FSD FBP3660/4Y                               3x2100SHD 2P       10x5    0.921 
+Plettenberg HP 355/40/05 Evolution           6x3200SHD          10x6    0.921 
+Dualsky XM4010MR-6.5                         6x2100SHD          9x4.5   0.920 
+FSD FBP3650/5Y                               4x2100SHD 3P       9x4.5   0.920 
+Hacker C50 9L                                2x3200SHD 3P       9x4.5   0.920 
+Kontronik KBM 39-16                          3x3200SHD 2P       9x4.5   0.920 
+MVVS 2.5/1120                                5x3200SHD          8x4     0.920 
+Mega S3                                      4x2100SHD 3P       8x4     0.920 
+Hacker A30 16M V3                            5x3200SHD          8x4     0.920 
+Keda KB36-60-13L                             3x3200SHD 2P       8x4     0.920 
+Mega BG-14                                   6x2100SHD 2P       9x4.5   0.920 
+Feigao 540L 30T (5408430L)                   6x3200SHD          9x4.5   0.919 
+Hacker C50 18L                               4x2100SHD 3P       9x4.5   0.919 
+Kontronik KBM 39-14                          4x2100SHD 3P       9x4.5   0.919 
+HET Typhoon 29/12/10                         5x3200SHD          9x4.5   0.919 
+Suppo A4130-6                                6x3200SHD          12x9    0.918 
+Mega RCn 41/30/12                            5x3200SHD          12x8    0.918 
+FSD FC3542-12T                               6x2100SHD          12x7    0.918 
+Hacker B50 19L                               4x2100SHD 2P       9x4.5   0.918 
+Model Motors AXI AC2826/8                    5x2100SHD 2P       8x4     0.918 
+Scorpion 3020-14                             5x3200SHD          9x4.5   0.918 
+Hacker C50 8L                                2x2100SHD 5P       8x4     0.918 
+Turnigy Multistar 4112-400                   6x2100SHD          12x8    0.918 
+Danlion Pulso X2826/12                       6x3200SHD          10x5    0.918 
+Feigao 540L 24T (5408424L)                   5x2100SHD 2P       9x4.5   0.918 
+Hacker A30 10L                               4x2100SHD 2P       9x4.5   0.918 
+Plettenberg HP 370/40/A3                     6x2100SHD          14x11   0.918 
+Dualsky XM3536CA-8                           5x3200SHD          9x4.5   0.917 
+Medusa Research 028-056-2800                 2x2100SHD 4P       8x4     0.917 
+Feigao 540L 27T (5408427L)                   5x3200SHD          9x4.5   0.917 
+Feigao 540L 17T (5408417L)                   4x2100SHD 3P       9x4.5   0.917 
+Robbe PRO 744/4 36V #4772                    6x2100SHD 2P       10x5.5  0.917 
+Feigao 540L 22T (5408422L)                   5x2100SHD 2P       9x4.5   0.917 
+FSD FB3665/9T                                2x3200SHD 3P       9x5     0.917 
+Plettenberg HP 300/40/A2 S                   6x2100SHD 2P       9x5     0.916 
+T-Motor MN3508 KV580                         6x2100SHD          10x5.5  0.916 
+Hacker A30 24M UAV                           6x2100SHD          9x4.5   0.916 
+Turnigy Multistar 4108-600                   6x2100SHD          10x5    0.916 
+Mega ACn 22/30/3H                            4x2100SHD 2P       8x4.5   0.916 
+Mega ACn 22/30/3                             4x2100SHD 2P       8x4.5   0.916 
+Aveox 1015/1Y                                2x2100SHD 6P       8x4     0.915 
+Keda KB36-60-14L                             3x3200SHD 2P       9x4.5   0.915 
+Feigao 540L 14T (5408414L)                   3x3200SHD 2P       9x4.5   0.915 
+Turnigy Multistar 5008-340                   6x2100SHD          14x11   0.915 
+Hacker B50 11L                               2x2100SHD 4P       10x5    0.915 
+FSD FBP2860/5Y                               5x3200SHD          8x4     0.915 
+IFlight iBM2820-5                            3x2100SHD 2P       10x5    0.915 
+RC-Timer 3542-5                              3x2100SHD 2P       10x5    0.915 
+Robbe PRO 536/4 12V #4751                    5x2100SHD 2P       9x4.5   0.915 
+Hyperion Zs4045-12                           6x2100SHD          14x12   0.915 
+MVVS 3.5/1400 Sport                          4x2100SHD 2P       8x4     0.914 
+Scorpion 3026-8                              4x2100SHD 2P       9x4.5   0.914 
+Feigao 540L 15T (5408415L)                   3x3200SHD 2P       9x4.5   0.914 
+Purple Power PPO-4240-890                    5x3200SHD          9x4.5   0.914 
+Feigao 540L 31T (5408431L)                   6x3200SHD          9x5     0.914 
+Danlion Pulso X2820/10                       4x2100SHD 2P       9x4.5   0.914 
+Robbe PRO 744/5 32.4V #4773                  6x3200SHD          10x5.5  0.914 
+Keda KB36-60-17L                             4x2100SHD 3P       9x4.5   0.914 
+Plettenberg Orbit 30-14                      6x2100SHD          10x5.5  0.914 
+Mega ACn 22/30/2                             3x2100SHD 4P       9x4.5   0.913 
+Aveox F12LMR (w/o gearbox)                   2x3200SHD 3P       9x4.5   0.913 
+Aveox F16LMR (w/o gearbox)                   3x2100SHD 4P       9x4.5   0.913 
+Aveox Marine 12                              3x3200SHD 2P       8x4     0.913 
+Aveox 27/39/3                                5x2100SHD 2P       9x4.5   0.913 
+Aveox 1409/1.5Y                              2x3200SHD 3P       9x4.5   0.913 
+Turnigy 4240-1300                            4x2100SHD 2P       8x4     0.913 
+Kontronik KBM 39-28                          2x2100SHD 6P       9x4.5   0.913 
+Purple Power PPI-3657-1800                   3x2100SHD 4P       9x4.5   0.912 
+Keda KB36-60-15L                             3x3200SHD 2P       9x4.5   0.912 
+T-Motor MN3110 KV780                         6x2100SHD          8x4.5   0.912 
+Purple Power PPO-4260-500                    4x3200SHD          13x9    0.912 
+Kontronik Fun 600-15 (24V)                   4x2100SHD 2P       8x4     0.912 
+Kontronik Fun 600-15 (12V)                   4x2100SHD 2P       8x4     0.912 
+Hacker C50 11L                               2x3200SHD 3P       10x5.5  0.912 
+Mega RCn 41/30/10                            5x2100SHD 2P       11x8    0.912 
+E-Flite Power 46 Outrunner 670KV             6x3200SHD          10x5.5  0.912 
+FSD FBP3650/3Y                               2x3200SHD 3P       9x5     0.912 
+Sunnysky X2814-1250KV                        4x2100SHD 2P       9x4.5   0.912 
+Keda KB36-60-08L                             2x2100SHD 6P       9x4.5   0.912 
+Plettenberg HP 355/30/05 Evolution           6x2100SHD 2P       10x5    0.912 
+Scorpion 3020-12                             4x2100SHD 2P       9x5     0.912 
+Mega RCn 41/30/16 (est)                      4x3200SHD          15x14   0.911 
+Hacker C50 12L                               2x2100SHD 4P       10x5    0.911 
+Scorpion 3014-18                             5x3200SHD          8x4     0.911 
+Sunnysky X2814-1100KV                        4x3200SHD          9x4.5   0.911 
+Astro Cobalt 60 FAI 6T#20 #660               6x2100SHD 2P       10x6    0.911 
+Hacker A30 12M V3                            4x2100SHD 2P       8x4     0.911 
+Turnigy G46-670                              6x3200SHD          10x5.5  0.911 
+Plettenberg HP 370/50/A3                     6x2100SHD          15x15   0.910 
+Aveox 1409/4Y                                5x3200SHD          9x4.5   0.910 
+Hacker A30 16M                               5x3200SHD          8x4     0.910 
+Turnigy Multistar 4114-320                   6x2100SHD          13x11   0.910 
+Mega FAI-10SP                                4x3200SHD 2P       9x4.5   0.910 
+FSD FBP2860/4.5Y                             5x2100SHD 2P       8x4     0.910 
+Neu 1509/2Y-1820                             3x2100SHD 4P       9x4.5   0.910 
+FSD FBP2860/4Y                               4x2100SHD 2P       8x4     0.909 
+FSD FBP3650/4D                               2x3200SHD 4P       8x4     0.909 
+FSD FBP2860/3Y                               3x3200SHD 2P       9x4.5   0.909 
+Keda KB36-60-09L                             2x3200SHD 3P       9x4.5   0.909 
+FSD FB3665/10T                               2x2100SHD 4P       10x5    0.908 
+Hyperion HP-Z3013-16                         5x3200SHD          9x4.5   0.907 
+Actro 12-4                                   4x2100SHD 2P       9x4.5   0.907 
+Keda KB36-60-18L                             4x2100SHD 2P       8x4     0.907 
+Aveox 1409/2Y                                3x3200SHD 2P       8x4     0.907 
+FSD FC3536-12T                               6x2100SHD          9x5     0.907 
+Neu 1506/3D-3400                             2x3200SHD 4P       8x4     0.906 
+Keda KB36-60-12L                             3x2100SHD 3P       8x4     0.906 
+Keda KB36-60-10L                             2x3200SHD 3P       10x5    0.906 
+Mega ACn 22/30/1E                            2x3200SHD 3P       8x4     0.906 
+Feigao 380XL 23T (3808423XL)                 6x3200SHD          8x4     0.906 
+Aveox 36/24/4                                6x3200SHD          8x4     0.906 
+Feigao 540L 9T (5408409L)                    2x3200SHD 3P       9x4.5   0.906 
+Aveox 36/24/2                                3x3200SHD 2P       8x4     0.906 
+Mega S4                                      5x2100SHD 2P       8x4     0.906 
+Feigao 540L 18T (5408418L)                   4x2100SHD 2P       8x4     0.906 
+Scorpion M-4010-360                          6x2100SHD          13x10   0.905 
+FSD FC3536-6T                                4x3200SHD          8x4     0.905 
+FSD FBP3650/4.5Y                             3x3200SHD 2P       9x5     0.905 
+Turnigy Multistar 4010-375                   6x2100SHD          13x9    0.905 
+Astro Brushless 40 3T#16 #840GM              3x3200SHD 2P       9x4.5   0.905 
+Feigao 540L 8T (5408408L)                    2x2100SHD 5P       8x4     0.905 
+FSD FBP2860/2Y                               2x3200SHD 3P       9x4.5   0.904 
+Mega ACn 22/20/3E                            3x2100SHD 3P       10x5    0.904 
+Dualsky XM4010TE-7                           6x2100SHD          10x5    0.904 
+Plettenberg HP 355/50/05 Evolution           6x3200SHD          11x7    0.904 
+Aveox 27/39/2                                3x2100SHD 3P       10x5    0.903 
+Plettenberg HP 220/30/A3 P6                  6x2100SHD 2P       8x4     0.903 
+Neu 1902/2Y                                  3x3200SHD 2P       8x4     0.903 
+FSD FB3660/12T                               3x3200SHD 2P       8x4     0.903 
+Turnigy D3542/5 1250                         4x2100SHD 2P       8x4.5   0.903 
+Hacker B50 12L                               2x3200SHD 2P       9x5     0.902 
+Turnigy G60-400                              6x2100SHD          12x7    0.902 
+Feigao 540L 32T (5408432L)                   6x3200SHD          10x5    0.902 
+Aveox 1015/3Y                                5x3200SHD          8x4     0.901 
+Plettenberg HP 355/30/03 Evolution           4x3200SHD 2P       9x4.5   0.901 
+Graupner Ultra 1800-3 10V #6344              4x3200SHD 2P       9x5     0.901 
+Plettenberg HP 355/45/06 Evolution           6x3200SHD          12x9    0.901 
+Model Motors AXI AC2820/12                   6x3200SHD          8x4     0.901 
+Feigao 540L 10T (5408410L)                   2x3200SHD 3P       9x5     0.900 
+E-Flite Power 60 Outrunner 400KV             6x2100SHD          12x7    0.900 
+Mega ACn 22/30/1.5E                          2x3200SHD 3P       10x5.5  0.900 
+Turnigy 540L V-Spec 1025                     5x2100SHD 2P       9x4.5   0.900 
+Jeti Phasor 30-3                             5x2100SHD 3P       9x4.5   0.899 
+Purple Power PPI-3652-1500                   4x2100SHD 3P       9x4.5   0.899 
+Feigao 540L 19T (5408419L)                   4x2100SHD 2P       9x4.5   0.899 
+Turnigy 540L V-Spec 810                      6x3200SHD          9x4.5   0.899 
+Aveox 1015/2Y                                3x3200SHD 2P       9x4.5   0.899 
+Hacker A30 12M                               4x2100SHD 2P       8x4     0.898 
+Turnigy 3632-1200                            4x3200SHD          8x4     0.898 
+Astro Brushless 40 4T#17 #840GM              4x2100SHD 2P       8x4     0.898 
+Mega S9                                      6x2100SHD          10x6    0.898 
+TowerPro 3520-7T-8                           6x3200SHD          10x6    0.898 
+Plettenberg HP 355/30/06 Evolution           6x3200SHD          10x5    0.898 
+IFlight iBM2820-4                            3x2100SHD 2P       9x4.5   0.898 
+Mega RC 600/10/8                             3x2100SHD 2P       8x4     0.897 
+FSD FC3536-10T                               6x2100SHD          8x4.5   0.897 
+Great Planes Ammo 36-50-1500 (#5285)         3x2100SHD 3P       10x5    0.897 
+Plettenberg HP 220/40/A2 S P4 Car E-Maxx     2x2100SHD 4P       10x5    0.897 
+Purple Power PPI-3657-2600                   2x3200SHD 3P       9x4.5   0.897 
+Feigao 380XL 21T (3808421XL)                 6x2100SHD 2P       8x4     0.897 
+Graupner Ultra 2000-7 24V #6332              6x3200SHD          12x9    0.897 
+Feigao 540L 16T (5408416L)                   3x3200SHD 2P       10x5    0.896 
+T-Motor MN4012 KV340                         6x2100SHD          13x11   0.896 
+Keda KB36-60-19L                             4x2100SHD 2P       8x4.5   0.896 
+Hyperion HP-Z3013-14                         5x3200SHD          8x4     0.896 
+FSD FBP3650/4.5D                             2x3200SHD 3P       8x4     0.895 
+MVVS 2.5/1350                                4x3200SHD          7.5x4   0.895 
+Turnigy G10-1100                             5x3200SHD          8x4     0.895 
+Aveox 27/39/4                                6x3200SHD          10x5    0.895 
+Feigao 540L 12T (5408412L)                   3x3200SHD 3P       9x4.5   0.894 
+Plettenberg HP 370/20/A3 S                   6x3200SHD          10x6    0.894 
+Feigao 540L 33T (5408433L)                   6x3200SHD          10x5.5  0.894 
+FSD FBP3650/2.5Y                             2x2100SHD 5P       9x4.5   0.894 
+FSD FC3536-5T                                3x2100SHD 2P       9x4.5   0.894 
+Feigao 380XL 18T (3808418XL)                 5x2100SHD 2P       8x4     0.894 
+Keda KB36-50-20S                             4x3200SHD 2P       8x4     0.894 
+Mega Mini-L7                                 3x3200SHD 2P       9x4.5   0.894 
+RC-Timer 3542-4                              3x2100SHD 2P       9x4.5   0.893 
+Keda KB28-67-11XL                            3x3200SHD 2P       8x4     0.893 
+Plettenberg HP 355/37/06 Evolution           6x3200SHD          11x5.5  0.893 
+Neu 1506/6D-1700                             3x3200SHD 2P       9x4.5   0.893 
+Neu 1506/3Y-1700                             3x3200SHD 2P       9x4.5   0.893 
+Keda KB36-60-16L                             3x3200SHD 2P       10x5    0.892 
+Feigao 380XL 20T (3808420XL)                 5x3200SHD          8x4     0.892 
+FSD FBP3650/5.5Y                             4x3200SHD          8x4     0.892 
+FSD FBP3650/5D                               2x3200SHD 3P       9x4.5   0.892 
+Actro 12-3                                   3x2100SHD 3P       10x5    0.892 
+Plettenberg HP 355/50/06 Evolution           6x3200SHD          13x10   0.891 
+Aveox 36/24/1.5                              2x3200SHD 3P       9x4.5   0.891 
+Keda KB28-67-10XL                            3x2100SHD 4P       8x4     0.890 
+Robbe PRO 525/4 12V #4750                    4x3200SHD 2P       9x4.5   0.890 
+T-Motor MT2214 KV770                         6x2100SHD          9x4.5   0.890 
+T-Motor Antigravity MT2814 KV770             6x2100SHD          9x4.5   0.890 
+Keda KB28-67-24XL                            6x3200SHD          9x4.5   0.890 
+Mega Pattern 24                              6x3200SHD          10x5.5  0.890 
+Keda KB28-67-18XL                            5x2100SHD 2P       8x4     0.890 
+Hyperion HP-G2220-10                         4x3200SHD          9x4.5   0.890 
+Aveox 27/39/1.5                              2x3200SHD 2P       9x5     0.890 
+T-Motor Antigravity MT2814 KV710             6x2100SHD          9x4.5   0.889 
+T-Motor MT2214 KV710                         6x2100SHD          9x4.5   0.889 
+Pelikan RAY C3542/06                         5x3200SHD          9x4.5   0.889 
+Keda KB28-67-20XL                            5x3200SHD          8x4     0.889 
+IFlight iBM2814-6                            4x3200SHD          8x4     0.889 
+Keda KB36-50-17S                             3x3200SHD 2P       8x4     0.889 
+Feigao 380XL 25T (3808425XL)                 6x3200SHD          9x4.5   0.889 
+Pelikan RAY C3542/05                         4x2100SHD 2P       9x4.5   0.888 
+E-Flite Power 10 Outrunner 1100KV            5x3200SHD          8x4     0.888 
+MVVS 2.5/1480                                3x2100SHD 2P       9x4.5   0.888 
+Plettenberg HP 355/25/05 Evolution           6x2100SHD 2P       9x4.5   0.888 
+Dualsky XM4010TE-6                           6x2100SHD          9x4.5   0.888 
+FSD FBP3650/4Y                               3x2100SHD 4P       9x5     0.888 
+Neu 1902/3Y                                  4x2100SHD 2P       8x4.5   0.887 
+Plettenberg HP 355/40/07 Evolution           6x3200SHD          12x9    0.887 
+Purple Power PPO-3542-1000                   5x3200SHD          9x4.5   0.887 
+Plettenberg HP 355/30/07 Evolution           6x3200SHD          11x7    0.887 
+Aveox 1409/3Y                                4x2100SHD 2P       8x4.5   0.887 
+IFlight iBM2814-5                            3x2100SHD 2P       9x4.5   0.886 
+Mega ACn 22/20/3H                            3x3200SHD 2P       9x4.5   0.886 
+Mega ACn 22/20/3                             3x3200SHD 2P       9x4.5   0.886 
+Dualsky XM3536CA-9                           6x2100SHD          7.5x4   0.886 
+Plettenberg HP 355/25/06 Evolution           6x3200SHD          9x4.5   0.885 
+T-Motor MT4008 KV600                         6x2100SHD          10x5.5  0.885 
+Keda KB36-60-11L                             2x2100SHD 4P       10x5    0.885 
+Plettenberg HP 355/25/07 Evolution           6x3200SHD          10x5    0.885 
+FSD FBP2860/3.5Y                             4x3200SHD          7x3.5   0.885 
+Feigao 540S 34T (5408434S)                   6x3200SHD          8x4     0.884 
+Feigao 540L 11T (5408411L)                   2x3200SHD 3P       10x5.5  0.884 
+Feigao 540L 34T (5408434L)                   6x3200SHD          10x6    0.884 
+Plettenberg HP 300/15/B7 P20 Frstyle XL      5x3200SHD          9x4.5   0.884 
+Turnigy Multistar 4220-880                   6x2100SHD          8x4     0.884 
+Feigao 380XL 26T (3808426XL)                 6x3200SHD          9x4.5   0.884 
+Feigao 380XL 11T (3808411XL)                 3x2100SHD 3P       8x4     0.883 
+Purple Power PPI-3652-2300                   3x2100SHD 4P       8x4     0.883 
+Hacker B50 17S                               3x3200SHD 2P       8x4     0.883 
+Plettenberg HP 300/40/A3 S                   6x3200SHD          11x7    0.883 
+Purple Power PPO-3542-1450                   4x2100SHD 2P       8x4     0.883 
+Plettenberg HP 355/45/07 Evolution           6x3200SHD          13x11   0.883 
+Feigao 380XL 16T (3808416XL)                 4x2100SHD 2P       8x4     0.883 
+Turnigy Park480 1320                         4x3200SHD          8x4     0.882 
+Great Planes Rimfire 35-36-1000 (#4615)      4x3200SHD          10x5    0.882 
+Scorpion SII-3008-1220                       4x3200SHD          8x4.5   0.882 
+FSD FBP2860/5D                               3x3200SHD 2P       8x4     0.882 
+Kontronik KIRA 500-26 (12V)                  2x3200SHD 2P       8x4     0.882 
+Keda KB28-67-16XL                            4x2100SHD 2P       8x4     0.881 
+Feigao 540S 27T (5408427S)                   5x2100SHD 2P       8x4     0.881 
+Hacker B50 5XL                               2x2100SHD 3P       7x3.5   0.881 
+Great Planes Rimfire 42-50-1000 (#4705)      4x2100SHD 2P       10x5    0.881 
+Keda KB28-67-12XL                            3x3200SHD 2P       9x4.5   0.881 
+FSD FBP3650/3.5Y                             3x2100SHD 2P       7x3.5   0.881 
+IFlight iBM2814-8                            4x3200SHD          10x5    0.881 
+Feigao 540S 17T (5408417S)                   3x3200SHD 2P       8x4     0.880 
+Feigao 380XL 22T (3808422XL)                 5x3200SHD          9x4.5   0.880 
+Neu 1902/2.5Y                                3x2100SHD 2P       8x4     0.880 
+Feigao 380XL 12T (3808412XL)                 3x3200SHD 2P       8x4.5   0.880 
+Keda KB28-67-22XL                            5x3200SHD          9x4.5   0.879 
+Feigao 540S 28T (5408428S)                   5x2100SHD 2P       8x4     0.879 
+Great Planes Rimfire 35-30-950 (#4590)       5x2100SHD          8x4     0.878 
+Keda KB28-67-26XL                            6x3200SHD          9x4.5   0.878 
+Dualsky XM3536CA-7                           4x3200SHD          8x4.5   0.878 
+Purple Power PPO-3542-1250                   4x3200SHD          8x4     0.878 
+Mega RC 400/15/7                             5x2100SHD          8x4     0.878 
+Keda KB36-50-15S                             3x2100SHD 4P       8x4     0.878 
+Feigao 380XL 24T (3808424XL)                 5x3200SHD          9x4.5   0.877 
+EM Cyclon Premium 22                         4x3200SHD          8x4     0.877 
+Feigao 540S 11T (5408411S)                   2x3200SHD 3P       8x4     0.877 
+Graupner Ultra 2000-5 20V #3304              6x3200SHD          11x5.5  0.877 
+Feigao 380XL 7T (3808407XL)                  2x2100SHD 5P       8x4     0.877 
+Feigao 540S 30T (5408430S)                   5x3200SHD          8x4     0.877 
+TowerPro 3520-6T-10                          6x3200SHD          9x4.5   0.877 
+IFlight iBM2814Q                             6x2100SHD          9x4.5   0.877 
+Feigao 380XL 8T (3808408XL)                  2x3200SHD 3P       9x4.5   0.876 
+Hacker B50 21S                               4x2100SHD 3P       8x4     0.876 
+Keda KB28-67-07XL                            2x2100SHD 5P       8x4     0.876 
+Keda KB36-50-11S                             2x3200SHD 3P       8x4     0.876 
+Astro Cobalt 60 11T#23 #661                  6x3200SHD          14x12   0.876 
+Feigao 540S 31T (5408431S)                   6x2100SHD 2P       8x4     0.876 
+FSD F500-1450                                4x2100SHD 2P       8x4     0.876 
+Hyperion HP-G2213-20                         6x2100SHD          7x3.5   0.875 
+FSD FBP3650/6D                               2x3200SHD 2P       9x4.5   0.875 
+Turnigy 2836-1000                            6x2100SHD          7x3.5   0.875 
+Mega ACn 22/20/4                             4x2100SHD 2P       8x4     0.875 
+Keda KB28-67-08XL                            2x3200SHD 3P       9x4.5   0.874 
+Scorpion 3014-22                             6x2100SHD          7.5x4   0.874 
+Hacker B50 10S                               2x2100SHD 6P       8x4     0.874 
+Feigao 380XL 13T (3808413XL)                 3x3200SHD 2P       9x4.5   0.874 
+E-Flite Park 480 Outrunner 1020KV            6x2100SHD          7x3.5   0.874 
+Feigao 540S 15T (5408415S)                   3x2100SHD 4P       8x4     0.874 
+Keda KB36-50-18S                             3x3200SHD 2P       9x4.5   0.874 
+Feigao 540S 10T (5408410S)                   2x3200SHD 4P       8x4     0.874 
+Dualsky XM2834CA-10                          6x2100SHD          8x4     0.873 
+Graupner Ultra 3300-7 20V #6354              6x3200SHD          11x6    0.873 
+Aveox 1015/1.5Y                              2x3200SHD 2P       9x4.5   0.873 
+Keda KB36-50-10S                             2x3200SHD 4P       8x4     0.873 
+Great Planes Ammo 36-50-2300 (#5290)         2x3200SHD 2P       9x4.5   0.872 
+Mega ACn 22/30/1                             2x3200SHD 4P       8x4     0.872 
+Keda KB28-67-17XL                            4x2100SHD 2P       9x4.5   0.872 
+Medusa Research 028-040-1200                 4x3200SHD          9x4.5   0.872 
+Hacker B50 24S                               4x2100SHD 2P       8x4     0.872 
+IFlight iBM2814-9                            5x2100SHD          8x4     0.872 
+E-Flite Park 480 Outrunner 910KV             6x2100SHD          7.5x4   0.872 
+Purple Power PPO-4240-1020                   5x3200SHD          8x4     0.871 
+Hacker B50 25S                               4x2100SHD 2P       8x4     0.871 
+Keda KB28-67-13XL                            3x3200SHD 2P       9x4.5   0.871 
+Feigao 380XL 17T (3808417XL)                 4x2100SHD 2P       8x4.5   0.871 
+Hacker B50 18S                               3x2100SHD 3P       8x4     0.871 
+Suppo A2820-6                                5x3200SHD          9x4.5   0.870 
+Dualsky XM3536CA-6                           4x3200SHD          8x4     0.870 
+Mega S11 (est)                               6x2100SHD          12x8    0.870 
+Plettenberg HP 355/37/04 Evolution           6x2100SHD 2P       9x4.5   0.870 
+FSD FBP2850/2Y                               2x2100SHD 4P       7x3.5   0.870 
+Model Motors AXI AC2820/10                   4x3200SHD          8x4     0.870 
+Plettenberg HP 355/50/07 Evolution           6x3200SHD          14x12   0.870 
+Plettenberg HP 300/30/A4 SL Heli             6x2100SHD          10x5.5  0.870 
+Mega RC 400/15/8                             5x2100SHD          9x4.5   0.870 
+Feigao 540S 24T (5408424S)                   4x2100SHD 2P       8x4     0.869 
+Feigao 540S 22T (5408422S)                   4x3200SHD          7x3.5   0.869 
+Mega ACn 22/20/2                             2x3200SHD 3P       9x4.5   0.869 
+Feigao 540S 23T (5408423S)                   4x2100SHD 2P       8x4     0.869 
+Turnigy Multistar 4112-320                   6x2100SHD          14x12   0.869 
+MaxCim MaxN32-13Y                            4x2100SHD 2P       8x4     0.868 
+Turnigy 480S BL 1500                         4x2100SHD 2P       8x4     0.868 
+Mega AC 22/20/2                              2x3200SHD 3P       9x4.5   0.868 
+Plettenberg HP 355/30/08 Evolution           6x2100SHD          11x6    0.868 
+Mega AC 22/20/3                              3x3200SHD 2P       8x4     0.868 
+Feigao 380XL 27T (3808427XL)                 6x2100SHD          8x4     0.868 
+Turnigy 480L V-Spec 2150                     3x3200SHD 2P       8x4     0.867 
+FSD FBP2850/4.5Y                             4x3200SHD          7x3.5   0.867 
+Feigao 380XL 6T (3808406XL)                  2x3200SHD 5P       8x4     0.867 
+Hacker B50 7L                                2x3200SHD 6P       9x4.5   0.867 
+FSD FBP3650/5.5D                             2x2100SHD 4P       9x4.5   0.867 
+FSD FC2835-8T                                6x2100SHD          7x3.5   0.867 
+Hacker B50 11S                               2x2100SHD 5P       8x4     0.866 
+EM Twister 09/25                             4x3200SHD          7x3.5   0.866 
+EM Cyclon Classic 25                         4x3200SHD          7x3.5   0.866 
+Feigao 380L 18T (3808418L)                   4x3200SHD          7x3.5   0.866 
+Turnigy Park480 850                          6x2100SHD          8x4     0.866 
+Keda KB28-67-19XL                            4x3200SHD          9x4.5   0.866 
+Great Planes Rimfire 35-36-1500 (#4625)      4x3200SHD          7x3.5   0.865 
+Aveox 36/24/3                                5x2100SHD 2P       8x4     0.865 
+Dualsky XM4010TE-5                           6x2100SHD          7.5x4   0.865 
+Hacker B50 19S                               3x3200SHD 2P       9x4.5   0.865 
+Hyperion HP-G2220-14                         5x2100SHD          8x4     0.865 
+Medusa Research 028-040-1700                 3x2100SHD 2P       8x4     0.865 
+Plettenberg HP 220/30/A2 P6                  4x3200SHD 2P       9x4.5   0.865 
+Scorpion HK-2520-1360                        4x3200SHD          8x4     0.864 
+Mega AC 22/20/4                              4x2100SHD 2P       8x4     0.864 
+Medusa Research 028-040-1000                 5x3200SHD          9x4.5   0.864 
+Great Planes Ammo 28-56-1530 (#5225)         4x2100SHD 2P       8x4     0.864 
+Keda KB36-50-19S                             3x3200SHD 2P       9x4.5   0.864 
+Feigao 540S 18T (5408418S)                   3x3200SHD 2P       8x4.5   0.864 
+Feigao 380XL 15T (3808415XL)                 4x2100SHD 3P       9x4.5   0.864 
+Hacker B50 12S                               2x2100SHD 4P       8x4     0.863 
+Feigao 380XL 19T (3808419XL)                 4x3200SHD          8x4.5   0.863 
+Feigao 380XL 9T (3808409XL)                  2x3200SHD 2P       8x4     0.863 
+Feigao 380L 8T (3808408L)                    2x2100SHD 4P       7x3.5   0.863 
+Graupner Ultra 3300-3 10V #6352              4x3200SHD 2P       9x4.5   0.863 
+Keda KB36-50-12S                             2x2100SHD 4P       8x4     0.863 
+Purple Power PPO-3536-1000                   6x2100SHD          7x3.5   0.863 
+Pelikan RAY C3536/08                         6x2100SHD          7x3.5   0.863 
+FSD FB3650/11T                               2x3200SHD 3P       8x4     0.863 
+Dualsky XM4010MR-5                           5x2100SHD          8x4     0.862 
+Graupner Ultra 1800-5 Neodym 18V #3311       6x3200SHD          10x5    0.862 
+FSD FBP2850/5Y                               4x2100SHD 2P       8x4     0.862 
+Great Planes Rimfire 35-36-1200 (#4620)      4x3200SHD          8x4.5   0.862 
+Neu 1110/1.5Y-3000                           2x2100SHD 4P       8x4     0.862 
+Kontronik BL500-20 (12V)                     3x2100SHD 3P       8x4     0.862 
+Mega Midi-7E                                 5x2100SHD 2P       8x4     0.862 
+Turnigy 540S V-Spec 1100                     5x3200SHD          8x4     0.862 
+Danlion Pulso X2820/8                        3x2100SHD 2P       9x4.5   0.862 
+Feigao 380XL 31T (3808431XL)                 6x2100SHD          9x4.5   0.861 
+Feigao 540S 32T (5408432S)                   5x3200SHD          8x4.5   0.861 
+Great Planes Rimfire 28-30-950 (#4560)       5x2100SHD          8x4     0.861 
+Graupner Ultra 1800 M Neodym #6334           6x3200SHD          10x5    0.861 
+Feigao 540S 29T (5408429S)                   5x2100SHD 2P       8x4.5   0.861 
+Feigao 540S 33T (5408433S)                   5x3200SHD          9x4.5   0.861 
+MaxCim MaxNEO-13Y                            4x3200SHD          7.5x4   0.861 
+Hacker B50 26S                               4x3200SHD          8x4     0.861 
+Feigao 540S 25T (5408425S)                   4x3200SHD          7.5x4   0.861 
+FSD FB3650/14T                               3x3200SHD 3P       8x4     0.861 
+Turnigy 480L V-Spec 1370                     4x3200SHD          8x4     0.860 
+Hacker B50 20S                               3x3200SHD 2P       9x4.5   0.860 
+Plettenberg HP 355/10/B22 P10 Orbt 10/22     4x3200SHD          9x4.5   0.860 
+Feigao 380XL 32T (3808432XL)                 6x2100SHD          9x4.5   0.860 
+Feigao 540S 12T (5408412S)                   2x2100SHD 4P       8x4     0.860 
+Keda KB28-57-26L                             6x3200SHD          8x4     0.860 
+Astro Brushless 25 5T#18 #825GM              4x3200SHD          7x3.5   0.859 
+Keda KB28-67-15XL                            4x2100SHD 3P       9x4.5   0.859 
+Cermark CEM 600BL3                           6x2100SHD 2P       9x4.5   0.859 
+Keda KB28-67-09XL                            2x3200SHD 2P       8x4     0.859 
+Kontronik Fun 500-21 (12V)                   3x2100SHD 2P       7x3.5   0.859 
+Feigao 540S 26T (5408426S)                   4x3200SHD          8x4     0.859 
+Turnigy D3536/8 1000                         6x2100SHD          7x3.5   0.859 
+MaxCim MaxNEO-13D                            3x2100SHD 4P       8x4     0.858 
+Feigao 540S 19T (5408419S)                   3x3200SHD 2P       9x4.5   0.858 
+Feigao 380L 27T (3808427L)                   6x2100SHD          7x3.5   0.858 
+Plettenberg HP 355/30/10 Evolution           6x2100SHD          12x8    0.858 
+Feigao 380L 23T (3808423L)                   5x3200SHD          8x4     0.858 
+Feigao 380XL 30T (3808430XL)                 6x2100SHD          9x4.5   0.858 
+Danlion Pulso X2814/12                       4x3200SHD          7.5x4   0.858 
+Plettenberg HP 355/37/07 Evolution           6x3200SHD          12x8    0.858 
+Great Planes Rimfire 35-48-1000 (#4645)      5x3200SHD          8x4.5   0.858 
+Dualsky XM2834MR-9                           5x2100SHD          8x4     0.858 
+Feigao 380XL 29T (3808429XL)                 6x2100SHD          9x4.5   0.858 
+Purple Power PPI-3652-3300                   2x2100SHD 5P       8x4     0.857 
+Hacker B50 14S                               2x3200SHD 2P       8x4     0.857 
+FSD FC2835-7T                                5x2100SHD          7x3.5   0.857 
+Turnigy D3542/4 1450                         3x2100SHD 2P       9x4.5   0.856 
+Graupner Ultra 1600-8 18V #3314              6x3200SHD          10x5    0.856 
+Feigao 380XL 28T (3808428XL)                 6x2100SHD          8x4.5   0.856 
+Hacker B50 22S                               4x3200SHD 2P       9x4.5   0.856 
+Hacker C50 13S                               2x3200SHD 3P       9x4.5   0.856 
+Feigao 380L 24T (3808424L)                   5x3200SHD          8x4     0.855 
+Feigao 380XL 10T (3808410XL)                 2x3200SHD 2P       9x4.5   0.855 
+FSD FBP2860/3D                               2x3200SHD 4P       9x4.5   0.855 
+Hacker C40 18L                               4x3200SHD          7x3.5   0.855 
+Danlion Pulso X2814/20                       6x2100SHD          8x4     0.855 
+Scorpion 3014-16                             4x3200SHD          8x4.5   0.855 
+Hyperion HP-Z3007-30                         6x2100SHD          7x3.5   0.854 
+FSD FBP2860/2.5Y                             2x2100SHD 3P       9x4.5   0.854 
+Great Planes Ammo 28-56-3200 (#5235)         2x3200SHD 3P       8x4     0.854 
+Medusa Research 028-040-2500                 2x3200SHD 2P       9x4.5   0.854 
+Hacker B40 18L                               4x3200SHD          7x3.5   0.854 
+Turnigy D2836/9 950                          5x2100SHD          8x4     0.854 
+Neu 1110/1.5Y-4700                           2x2100SHD 5P       8x4     0.854 
+Kontronik BL500-30 (12V)                     2x2100SHD 4P       8x4     0.853 
+Kontronik Fun 480-33 (12V)                   2x3200SHD 2P       7x3.5   0.853 
+Mega AC 22/30/1                              2x3200SHD 5P       9x4.5   0.853 
+Plettenberg HP 355/30/09 Evolution           6x2100SHD          11x8    0.853 
+Mega RC 400/15/6                             4x2100SHD          8x4     0.853 
+Robbe Sport 625-7 #4562 (est)                6x3200SHD          9x4.5   0.853 
+Kontronik KIRA 480-31 (12V)                  2x2100SHD 4P       8x4     0.852 
+Feigao 380L 13T (3808413L)                   3x3200SHD 2P       8x4     0.852 
+Plettenberg HP 220/30/A4 P4 SL               4x2100SHD 2P       8x4     0.852 
+Hacker A20 12XL                              6x2100SHD          7x3.5   0.852 
+Plettenberg HP 355/45/08 Evolution           6x2100SHD          13x10   0.852 
+Keda KB28-57-13L                             3x3200SHD 2P       8x4     0.852 
+FSD FBP2860/4D                               2x2100SHD 3P       8x4     0.852 
+Aveox 27/26/4                                5x3200SHD          8x4     0.851 
+Turnigy D3536/9 910                          5x2100SHD          8x4     0.851 
+Purple Power PPH-600-1600                    4x3200SHD          7x3.5   0.851 
+Hacker B50 13S                               2x3200SHD 2P       8x4     0.850 
+Graupner Ultra Brushless 220/20-3 #6381      3x2100SHD 2P       8x4.5   0.850 
+Keda KB28-57-24L                             5x3200SHD          8x4     0.850 
+Turnigy D3536/5 1450                         3x2100SHD 2P       9x4.5   0.850 
+Astro Cobalt 60 13T#24 #662                  6x2100SHD          14x12   0.850 
+Medusa Research 028-040-3400                 2x2100SHD 5P       8x4     0.849 
+Feigao 380XL 14T (3808414XL)                 3x2100SHD 2P       8x4.5   0.849 
+Plettenberg HP 355/25/08 Evolution           6x3200SHD          11x6    0.849 
+Dualsky XM2834CA-9                           5x2100SHD          8x4     0.849 
+Keda KB36-50-13S                             2x3200SHD 2P       8x4     0.849 
+Hacker B40 9L                                2x3200SHD 2P       7x3.5   0.849 
+FSD FBP2850/4Y                               3x2100SHD 2P       8x4     0.849 
+Keda KB28-67-14XL                            3x2100SHD 2P       8x4.5   0.849 
+Pelikan RAY C3536/06                         4x3200SHD          8x4     0.849 
+FSD FBP2860/3.5D                             2x3200SHD 2P       7.5x4   0.849 
+Plettenberg HP 220/20/A3 P6 SL               4x3200SHD          7x3.5   0.849 
+Plettenberg HP 355/45/09 Evolution           6x2100SHD          14x11   0.848 
+Feigao 540S 16T (5408416S)                   3x2100SHD 4P       9x4.5   0.848 
+Hacker B50 15S                               2x3200SHD 2P       9x4.5   0.848 
+Purple Power PPO-3536-1250                   4x3200SHD          8x4     0.848 
+Hacker C40 14L                               3x2100SHD 2P       7x3.5   0.848 
+Feigao 380L 21T (3808421L)                   5x2100SHD 2P       8x4     0.848 
+Robbe Sport 625-5 #4564                      5x2100SHD 2P       8x4     0.848 
+Plettenberg HP 355/37/05 Evolution           6x3200SHD          9x5     0.847 
+Plettenberg HP 290/40/08 Torque              6x3200SHD          9x4.5   0.847 
+Feigao 540S 13T (5408413S)                   2x3200SHD 2P       8x4     0.847 
+Plettenberg HP 355/30/04 Evolution           6x2100SHD 2P       8x4     0.847 
+Purple Power PPI-2857-1530                   4x2100SHD 2P       8x4     0.847 
+FSD F500-1720                                3x2100SHD 2P       8x4     0.847 
+Feigao 540S 20T (5408420S)                   3x2100SHD 2P       8x4     0.847 
+Keda KB36-50-16S                             3x2100SHD 4P       9x4.5   0.847 
+Aveox 27/26/3                                4x2100SHD 2P       8x4     0.847 
+Feigao 380L 9T (3808409L)                    2x2100SHD 3P       7x3.5   0.847 
+Turnigy D3536/6 1250                         4x3200SHD          8x4     0.847 
+Kontronik Fun 500-27 (12V)                   2x3200SHD 2P       8x4     0.846 
+IFlight iBM2217Q                             6x2100SHD          8x4     0.846 
+Feigao 540L 7T (5408407L)                    2x3200SHD 6P       9x4.5   0.846 
+Feigao 380XL 33T (3808433XL)                 6x2100SHD          10x5    0.846 
+Keda KB28-57-20L                             4x3200SHD          8x4     0.845 
+Hacker C40 9L                                2x3200SHD 2P       7x3.5   0.845 
+Keda KB28-57-18L                             4x2100SHD 2P       8x4     0.845 
+BP A2820-6                                   4x3200SHD          10x5    0.845 
+Feigao 380L 30T (3808430L)                   6x2100SHD          7.5x4   0.845 
+MVVS 2/1600                                  3x3200SHD          8x4     0.845 
+Plettenberg HP 300/20/A3 S SL                5x3200SHD          8x4     0.845 
+Mega Mini-6                                  2x3200SHD 2P       8x4     0.845 
+T-Motor MT2216 V2.0 KV1100                   6x2100SHD          7x3.5   0.845 
+Plettenberg HP 355/40/08 Evolution           6x2100SHD          12x8    0.845 
+Medusa Research 028-040-2200                 2x3200SHD 2P       9x4.5   0.844 
+Keda KB28-57-19L                             4x2100SHD 2P       8x4     0.844 
+Plettenberg HP 355/50/08 Evolution           6x2100SHD          13x11   0.844 
+Feigao 380L 29T (3808429L)                   6x2100SHD          7.5x4   0.844 
+Feigao 380L 20T (3808420L)                   4x3200SHD          8x4     0.844 
+Scorpion SII-3008-1090                       4x2100SHD          8x4     0.844 
+Model Motors AXI AC2820/8                    4x3200SHD          7x3.5   0.844 
+Hacker B50 16S                               2x3200SHD 2P       9x4.5   0.844 
+Kontronik KIRA 480-34 (12V)                  2x2100SHD 5P       8x4     0.844 
+Feigao 380L 19T (3808419L)                   4x2100SHD 2P       8x4     0.843 
+Aveox 1406/4Y                                4x2100SHD 2P       8x4     0.843 
+Plettenberg HP 290/40/07 Torque              6x3200SHD          8x4     0.843 
+EM Cyclon Classic 20                         3x2100SHD 2P       8x4     0.843 
+Feigao 380XL 34T (3808434XL)                 6x2100SHD          10x5    0.843 
+Hacker B50 23S                               3x2100SHD 2P       9x4.5   0.843 
+DeWalt 18V                                   6x2100SHD 2P       8x4     0.843 
+Robbe PRO 330/6 12V #4732                    4x2100SHD 2P       8x4     0.843 
+Astro Cobalt 40 8T#20 #640                   6x3200SHD          11x5.5  0.842 
+FSD FBP2850/6D                               3x2100SHD 2P       7x3.5   0.842 
+Keda KB36-50-14S                             2x3200SHD 2P       8x4.5   0.841 
+Hacker C40 20L                               4x3200SHD          7.5x4   0.841 
+FSD FBP2850/4D                               2x3200SHD 2P       7x3.5   0.841 
+Graupner Ultra  930-8 12V #6343              4x3200SHD          7.5x4   0.840 
+Astro Cobalt 25 8T#20 #625                   6x3200SHD          8x4.5   0.840 
+Mega Mini-7E                                 4x2100SHD 2P       7x3.5   0.840 
+FSD FBP2845/4Y                               3x2100SHD 2P       7x3.5   0.840 
+Plettenberg HP 290/30/06 Torque              4x2100SHD 2P       8x4     0.840 
+Graupner Ultra  930-10 12V #6347             5x3200SHD          8x4     0.840 
+Feigao 540S 14T (5408414S)                   2x3200SHD 2P       8x4.5   0.840 
+Turnigy 3632-1500                            3x3200SHD          8x4     0.839 
+Hacker B40 20L                               4x3200SHD          7.5x4   0.839 
+Plettenberg HP 355/37/10 Evolution           6x2100SHD          13x10   0.839 
+Plettenberg HP 220/20/A4 P6                  5x3200SHD          8x4     0.839 
+Great Planes Ammo 36-40-2250 (#5255)         3x2100SHD 3P       8x4     0.839 
+FSD FC3530-12T                               5x2100SHD          7.5x4   0.839 
+Feigao 380L 31T (3808431L)                   6x2100SHD          8x4     0.839 
+Feigao 380L 15T (3808415L)                   3x2100SHD 2P       7.5x4   0.839 
+Feigao 540S 21T (5408421S)                   3x2100SHD 2P       8x4.5   0.839 
+Aveox 1010/1.5Y                              2x3200SHD 2P       7x3.5   0.838 
+Aveox 27/26/1.5                              2x2100SHD 4P       8x4     0.838 
+Plettenberg HP 355/25/04 Evolution           5x3200SHD          7x3.5   0.838 
+Feigao 380L 32T (3808432L)                   6x2100SHD          8x4     0.838 
+Robbe PRO 325/4 8.4V #4730                   3x3200SHD 2P       8x4     0.838 
+Turnigy Park450 1200                         5x2100SHD          7x3.5   0.838 
+Graupner Ultra 3300-4 12V #6358              6x2100SHD 2P       8x4     0.838 
+Keda KB28-57-09L                             2x2100SHD 4P       8x4     0.837 
+Feigao 380L 25T (3808425L)                   5x3200SHD          8x4.5   0.837 
+Mega Mini-7                                  3x3200SHD 2P       8x4     0.837 
+Feigao 380L 33T (3808433L)                   6x2100SHD          8x4     0.837 
+Robbe PRO 330/4 12V #4731                    3x3200SHD 2P       9x4.5   0.836 
+Plettenberg HP 355/40/10 Evolution           6x2100SHD          14x11   0.836 
+Plettenberg HP 220/30/A3 P4 SL               4x3200SHD 2P       8x4     0.836 
+Hyperion Zs2213-18                           5x2100SHD          8x4     0.836 
+Turnigy 2836-1200                            5x2100SHD          7x3.5   0.835 
+Hacker C40 21L                               4x3200SHD          8x4     0.835 
+DeWalt 14.4V                                 5x2100SHD 2P       8x4     0.835 
+PJS 3D 800-E                                 6x2100SHD          7x3.5   0.835 
+Hacker C40 19L                               4x2100SHD 2P       8x4     0.834 
+FSD FB2858/12T                               3x3200SHD          6x3     0.834 
+Feigao 380L 10T (3808410L)                   2x3200SHD 2P       8x4     0.834 
+Keda KB28-57-14L                             3x3200SHD          7x3.5   0.834 
+Astro Brushless 25 4T#17 #825GM              3x3200SHD 2P       8x4.5   0.834 
+Keda KB28-47-26S                             5x3200SHD          7x3.5   0.834 
+Hyperion Zs3007B-24                          4x2100SHD          8x4     0.834 
+Feigao 380L 12T (3808412L)                   3x3200SHD          6x3     0.834 
+Keda KB28-57-15L                             3x2100SHD 2P       8x4     0.833 
+Keda KB28-57-10L                             2x3200SHD 2P       8x4     0.833 
+Robbe Sport 650-8 #4565                      6x2100SHD          12x9    0.833 
+FSD FB2858/8T                                2x2100SHD 5P       8x4     0.833 
+Astro Cobalt 40 Marine Race 4T#17 #341       4x2100SHD 2P       8x4     0.833 
+Purple Power PPI-2857-3200                   2x3200SHD 3P       8x4     0.832 
+Scorpion HK-2520-1580                        3x3200SHD          8x4     0.832 
+Keda KB28-57-12L                             3x3200SHD          6x3     0.832 
+Hacker C40 10L                               2x3200SHD 2P       7.5x4   0.832 
+Hacker B40 21L                               4x3200SHD          8x4     0.832 
+Feigao 380L 28T (3808428L)                   6x3200SHD          8x4.5   0.832 
+Scorpion 3008-32                             6x2100SHD          7x3.5   0.832 
+Feigao 380S 26T (3808426S)                   5x2100SHD          6x3     0.832 
+Hacker A20 8XL                               3x3200SHD          8x4     0.832 
+Mega RC 400/15/5                             4x2100SHD          7.5x4   0.832 
+Scorpion HK-2520-1880                        3x2100SHD 2P       7.5x4   0.832 
+Feigao 380L 16T (3808416L)                   3x2100SHD 2P       8x4     0.831 
+Great Planes Ammo 28-56-2300 (#5230)         2x3200SHD 2P       9x4.5   0.831 
+FSD FB2858/10T                               2x3200SHD 2P       8x4     0.831 
+Hacker C40 15L                               3x2100SHD 2P       7.5x4   0.831 
+Hacker B40 15L                               3x2100SHD 2P       7.5x4   0.831 
+Feigao 380L 26T (3808426L)                   5x3200SHD          9x4.5   0.831 
+FSD FBP2850/3Y                               2x3200SHD 2P       9x4.5   0.831 
+MVVS 2/1120                                  4x2100SHD          8x4     0.831 
+Keda KB28-57-16L                             3x2100SHD 2P       8x4     0.830 
+Feigao 380L 14T (3808414L)                   3x3200SHD          7x3.5   0.830 
+FSD FBP2850/3.5D                             2x2100SHD 4P       7x3.5   0.830 
+Hacker B40 10L                               2x3200SHD 2P       7.5x4   0.829 
+Kontronik KBM 42-30                          2x3200SHD 2P       7.5x4   0.829 
+Plettenberg HP 355/40/09 Evolution           6x2100SHD          13x10   0.829 
+Kontronik KIRA 480-26 (12V)                  2x3200SHD 2P       8x4.5   0.829 
+FSD FC3530-10T                               4x2100SHD          7x3.5   0.829 
+RCer Warp 4 BL4-15 5-Turn                    4x3200SHD          8x4     0.828 
+Dualsky XM3530CA-12                          5x2100SHD          7x3.5   0.828 
+Hacker C40 11L                               2x3200SHD 2P       8x4     0.828 
+BP A2217-9                                   5x2100SHD          8x4     0.828 
+Feigao 380L 22T (3808422L)                   4x3200SHD          8x4.5   0.828 
+Keda KB28-57-22L                             4x3200SHD          8x4.5   0.828 
+Uberall Nippy Black 1812/100                 5x2100SHD          7.5x4   0.827 
+Plettenberg HP 220/20/A3 P4                  3x2100SHD 3P       7x3.5   0.827 
+FSD FBP2850/3.5Y                             3x3200SHD          7x3.5   0.827 
+Keda KB28-47-20S                             4x2100SHD 2P       7x3.5   0.827 
+Kontronik Fun 480-28 (12V)                   2x3200SHD 2P       8x4     0.827 
+FSD FBP2850/2.5Y                             2x3200SHD 2P       8x4     0.826 
+FSD FBP2850/5.5D                             3x3200SHD          6x3     0.826 
+Hacker B40 19L                               4x2100SHD 2P       8x4     0.826 
+HET Typhoon Micro 15                         5x2100SHD          7x3.5   0.826 
+Kontronik KBM 42-20                          3x2100SHD 2P       7.5x4   0.826 
+Feigao 380S 23T (3808423S)                   4x3200SHD          7x3.5   0.825 
+HiMaxx HC2816-1220                           5x2100SHD          7x3.5   0.825 
+Hacker C40 17L                               3x2100SHD 2P       8x4     0.825 
+MaxCim Max15-13Y                             4x3200SHD          7.5x4   0.825 
+IFlight iBM2808-14                           5x2100SHD          7.5x4   0.824 
+Scorpion 3008-28                             5x2100SHD          7x3.5   0.824 
+Hacker C40 16L                               3x2100SHD 2P       8x4     0.824 
+Astro Brushless 25 3T#16 #825GM              2x3200SHD 2P       8x4     0.824 
+Graupner Ultra 1600-6 16V #1791              6x3200SHD          8x4     0.823 
+Kontronik KBM 42-24 (est)                    3x3200SHD          6x3     0.823 
+RC-Timer 3530-14                             5x2100SHD          7.5x4   0.823 
+HiMaxx HA3615-1600                           4x2100SHD 2P       8x4     0.823 
+Hacker B40 16L                               3x2100SHD 2P       8x4     0.823 
+Plettenberg HP 355/45/10 Evolution           6x2100SHD          14x13   0.823 
+Astro Cobalt 40 FAI 4T#17 #643               4x2100SHD 2P       8x4     0.822 
+Robbe PRO 536/7 28.8V #4752                  6x3200SHD          11x6    0.822 
+FSD FC3530-8T                                3x3200SHD          8x4     0.822 
+Graupner Ultra  930-7 10V #6342              4x3200SHD          7x3.5   0.822 
+Plettenberg HP 290/30/08 Torque              6x3200SHD          8x4     0.822 
+Feigao 380L 17T (3808417L)                   4x2100SHD          6x3     0.822 
+Feigao 380L 34T (3808434L)                   6x2100SHD          8x4.5   0.822 
+FSD FC2835-6T                                4x2100SHD          7x3.5   0.821 
+Feigao 380S 34T (3808434S)                   6x2100SHD          7x3.5   0.821 
+Scorpion SII-2215-1810 V2                    3x3200SHD          7.5x4   0.820 
+Aveox 1406/3Y                                3x2100SHD 2P       7.5x4   0.820 
+Great Planes Rimfire 42-40-1000 (#4675)      6x2100SHD          7x3.5   0.820 
+Plettenberg HP 290/30/10                     6x3200SHD          8x4     0.820 
+FSD FBP2845/4.5Y                             3x3200SHD          7x3.5   0.819 
+Keda KB28-57-11L                             2x3200SHD 2P       8x4.5   0.819 
+Feigao 380L 11T (3808411L)                   2x3200SHD 2P       8x4.5   0.819 
+Multiplex Permax 47XL                        6x3200SHD          8x4     0.819 
+Hacker B40 17L                               3x3200SHD          7.5x4   0.819 
+FSD FBP2845/2.5Y                             2x3200SHD 2P       7x3.5   0.819 
+Astro Cobalt 40 FAI 5T#18 #642               5x2100SHD 2P       8x4.5   0.819 
+Feigao 380S 16T (3808416S)                   3x3200SHD          6x3     0.819 
+Keda KB28-57-17L                             4x2100SHD          6x3     0.818 
+Plettenberg HP 355/30/11 Evolution           6x2100SHD          13x10   0.818 
+Mega Midi-6                                  2x3200SHD 2P       9x4.5   0.818 
+EM Cyclon NFS 2000                           3x3200SHD          6.5x3.5 0.818 
+FSD FB2858/11T                               2x3200SHD 2P       9x4.5   0.818 
+Turnigy 380L V-Spec 2600                     2x3200SHD 2P       8x4.5   0.818 
+Jeti Phasor 15-4                             3x2100SHD 2P       8x4     0.817 
+Astro Brushless 19 9T #819M                  4x3200SHD          8x4     0.817 
+Danlion Pulso X2814/16                       5x2100SHD          7.5x4   0.816 
+Graupner Ultra 3300-5 16V #6359              6x3200SHD          9x4.5   0.816 
+HiMaxx HA3618-2300                           3x2100SHD 2P       7x3.5   0.816 
+Hacker B40 11L                               2x3200SHD 2P       8x4     0.816 
+Dualsky XM3530CA-14                          5x2100SHD          8x4     0.816 
+Plettenberg HP 355/50/09 Evolution           6x2100SHD          14x13   0.816 
+Kontronik BL480-33 (7V)                      2x2100SHD 3P       7x3.5   0.816 
+Great Planes Rimfire 35-48-1300 (#4650)      3x2100SHD 2P       10x5    0.815 
+Aveox 1406/2Y                                2x3200SHD 2P       7.5x4   0.815 
+Plettenberg HP 355/50/10 Evolution           6x2100SHD          15x15   0.815 
+FSD FBP2860/6D                               3x2100SHD 2P       8x4.5   0.815 
+Dualsky XM2834CA-7                           4x2100SHD          7.5x4   0.815 
+FSD FBP2845/5Y                               3x3200SHD          7.5x4   0.814 
+Scorpion SII-2215-1127 V2                    4x2100SHD          8x4     0.814 
+Great Planes Ammo 36-40-2900 (#5260)         2x3200SHD 2P       8x4     0.814 
+Plettenberg HP 355/37/08 Evolution           6x2100SHD          11x7    0.814 
+Purple Power PPI-2847-3600                   2x3200SHD 2P       7x3.5   0.814 
+FSD FBP2850/4.5D                             2x3200SHD 2P       8x4     0.813 
+Hacker B40 17S                               3x3200SHD          6x3     0.813 
+MaxCim MaxN32-13D                            2x3200SHD 2P       9x4.5   0.813 
+Feigao 380S 17T (3808417S)                   3x2100SHD 2P       7x3.5   0.813 
+Hacker A30 22S V3                            4x2100SHD          6.5x3.5 0.813 
+Feigao 380S 11T (3808411S)                   2x3200SHD 2P       7x3.5   0.812 
+IFlight iBM2217-7                            4x2100SHD          8x4     0.812 
+Turnigy Aerodrive SK3 3530-1340              4x2100SHD          7x3.5   0.812 
+Keda KB28-47-10S                             2x2100SHD 4P       7x3.5   0.812 
+Plettenberg HP 290/40/06 Torque              5x3200SHD          8x4     0.812 
+Feigao 380S 10T (3808410S)                   2x2100SHD 4P       7x3.5   0.811 
+Great Planes Rimfire 35-48-1600 (#4655)      3x2100SHD 2P       8x4     0.811 
+FSD FBP2845/3Y                               2x3200SHD 2P       8x4     0.811 
+Mega RC Heli                                 4x2100SHD          6x3     0.811 
+Suppo A2814-8                                5x2100SHD          8x4     0.811 
+FSD FBP2860/4.5D                             2x3200SHD 2P       9x5     0.811 
+BP A2212-10                                  4x2100SHD          7x3.5   0.811 
+Great Planes Ammo 28-45-2100 (#5210)         3x3200SHD          7x3.5   0.811 
+Hyperion Gs2218-12                           4x2100SHD          8x4     0.810 
+Keda KB28-47-17S                             3x2100SHD 2P       7x3.5   0.810 
+Scorpion SII-2212-1850 V2                    3x3200SHD          7.5x4   0.810 
+Plettenberg HP 220/30/A4 S P4 SL             4x2100SHD 2P       8x4     0.810 
+RC-Timer 3530-10                             4x2100SHD          7x3.5   0.810 
+Keda KB28-47-11S                             2x3200SHD 2P       7x3.5   0.810 
+LRP Zenit 550-6-8-BB #5902                   4x3200SHD          7.5x4   0.810 
+Purple Power PPI-3642-2250                   3x2100SHD 2P       7x3.5   0.809 
+Hacker A30 28S V3                            4x2100SHD          8x4     0.809 
+Pelikan RAY C3536/05                         3x3200SHD          8x4.5   0.809 
+Neu 1110/2Y-2500                             2x2100SHD 2P       7.5x4   0.809 
+MaxCim Max15-13D                             3x2100SHD 4P       8x4     0.809 
+FSD FC3542-13T                               5x2100SHD          13x11   0.809 
+Aveox 27/26/2                                2x2100SHD 3P       9x4.5   0.809 
+Purple Power PPO-3536-1450                   3x3200SHD          8x4.5   0.809 
+Keda KB28-47-09S                             2x2100SHD 5P       7x3.5   0.809 
+Suppo A2212-10                               4x2100SHD          7x3.5   0.808 
+Kontronik BL480-33 (12V)                     2x3200SHD 2P       7x3.5   0.808 
+Astro Ferrite 40 Marine 10T#21 #440          6x2100SHD          10x5.5  0.808 
+FSD FB2848/11T                               2x3200SHD 2P       7x3.5   0.808 
+Plettenberg HP 290/30/05 Torque              4x2100SHD 2P       7x3.5   0.808 
+Feigao 380S 31T (3808431S)                   5x2100SHD          7x3.5   0.808 
+RCer Warp 4 BL4-15 4-Turn                    3x3200SHD          7.5x4   0.808 
+Feigao 380S 30T (3808430S)                   5x2100SHD          7x3.5   0.808 
+FSD FBP2850/5D                               2x3200SHD 2P       8x4.5   0.807 
+Plettenberg HP 290/30/08                     5x3200SHD          7.5x4   0.807 
+Turnigy 540S V-Spec 1350                     4x3200SHD          8x4     0.807 
+Feigao 380S 18T (3808418S)                   3x3200SHD          6.5x3.5 0.807 
+Keda KB28-47-19S                             3x3200SHD          7x3.5   0.807 
+Robbe PRO 736/8 33.6V #4774                  6x3200SHD          13x10   0.807 
+RC-Timer 2217-7                              4x2100SHD          8x4     0.806 
+Hyperion Gs2213-16                           4x2100SHD          8x4     0.806 
+Hacker B40 14L                               3x3200SHD 2P       8x4.5   0.806 
+Dualsky XM2834CA-6                           4x2100SHD          6.5x3.5 0.806 
+Hyperion HP-G2213-16                         4x2100SHD          7x3.5   0.806 
+Astro Cobalt 25 FAI 5T#18 #627               4x2100SHD 2P       8x4     0.805 
+Aveox 1010/3Y                                4x2100SHD          6x3     0.805 
+Hacker A30 22S                               4x2100SHD          6.5x3.5 0.805 
+Graupner Ultra 1600-5 12V #1792              5x3200SHD          8x4     0.805 
+LRP Zenit 550-6-8 #5901                      5x3200SHD          7x3.5   0.804 
+Danlion Pulso X2814/10                       3x3200SHD          8x4     0.804 
+Hacker C40 12L                               2x3200SHD 2P       9x4.5   0.804 
+Keda KB28-47-24S                             4x3200SHD          7.5x4   0.804 
+BP A2814-8                                   5x2100SHD          7x4     0.804 
+Keda KB28-47-18S                             3x3200SHD          7x3.5   0.804 
+Feigao 380S 19T (3808419S)                   3x3200SHD          7x3.5   0.804 
+Medusa Research 028-032-1500                 4x2100SHD          7x3.5   0.803 
+Hyperion HP-Z3007-26                         5x2100SHD          7x3.5   0.803 
+Maxx Products 1510                           5x3200SHD          7.5x4   0.802 
+Cermark CEM CM2008                           4x3200SHD          8x4     0.802 
+Medusa Research 028-032-1200                 5x2100SHD          7x4     0.801 
+Mega ACn 16-15-4                             3x3200SHD          6.5x3.5 0.801 
+Hacker A30 28S                               4x2100SHD          8x4     0.801 
+Astro Ferrite 25 Marine 10T#21 #425          6x2100SHD          8x4.5   0.801 
+Mega ACn 16-15-7                             5x2100SHD          7x3.5   0.801 
+Cermark CEM 480BL3 (test)                    5x2100SHD 2P       8x4     0.801 
+IFlight iBM2217-6                            3x3200SHD          8x4.5   0.800 
+Purple Power PPI-3642-2900                   2x3200SHD 2P       8x4     0.800 
+Hacker B40 12L                               2x3200SHD 2P       9x4.5   0.800 
+EM Cyclon Premium 15                         4x2100SHD          7x3.5   0.799 
+Purple Power PPI-2847-2100                   3x3200SHD          7x3.5   0.799 
+Hacker C40 12S                               2x3200SHD 2P       7x3.5   0.799 
+Plettenberg HP 220/20/A2 P6                  3x2100SHD 2P       7x3.5   0.799 
+Neu 1107/6D-2060                             3x3200SHD          7x3.5   0.799 
+Dualsky XM3530CA-10                          4x2100SHD          7x3.5   0.799 
+Hacker C40 18S                               3x2100SHD 2P       7x3.5   0.799 
+Feigao 380S 25T (3808425S)                   4x3200SHD          7.5x4   0.799 
+Hacker B40 13L                               2x2100SHD 2P       8x4     0.798 
+Model Motors AXI AC2814/10                   3x3200SHD          8x4     0.798 
+Dualsky XM2834MR-10.5                        4x2100SHD          10x6    0.798 
+Hacker C40 19S                               3x3200SHD          6.5x3.5 0.798 
+EM Cyclon Elite 18                           2x3200SHD 2P       8x4.5   0.798 
+Hyperion Gs2213-14                           4x2100SHD          7x4     0.798 
+Great Planes Ammo 28-45-3600 (#5220)         2x3200SHD 2P       7x3.5   0.798 
+Mega ACn 16-15-5                             4x2100SHD          6x3     0.798 
+Pelikan RAY C3530/14                         5x2100SHD          7.5x4   0.796 
+Purple Power PPO-3530-1100                   5x2100SHD          7.5x4   0.796 
+Hacker C40 13L                               2x2100SHD 2P       8x4     0.796 
+Dualsky XM2830CA-8                           4x2100SHD          6.5x3.5 0.796 
+Aveox 1010/2Y                                2x3200SHD 2P       9x4.5   0.796 
+Turnigy D3530/14 1100                        5x2100SHD          7.5x4   0.796 
+Plettenberg HP 320/30/08 Neo                 6x3200SHD          12x7    0.795 
+Graupner Ultra  920-4 7V #6339               2x2100SHD 3P       7x3.5   0.795 
+Hacker B40 12S                               2x3200SHD 2P       7x3.5   0.795 
+PJS 3D 1000                                  5x2100SHD          7x3.5   0.795 
+Aveox 1010/4Y                                4x2100SHD          7x3.5   0.794 
+Hacker C40 20S                               3x3200SHD          7x3.5   0.794 
+Plettenberg HP 220/30/A3 S P4                3x3200SHD          7x3.5   0.794 
+Feigao 380S 27T (3808427S)                   4x2100SHD          7x3.5   0.794 
+RC-Timer 2217-6                              4x2100SHD          6.5x3.5 0.793 
+Hacker B40 19S                               3x3200SHD          6.5x3.5 0.793 
+Graupner Ultra  930-6 8V #6341               3x2100SHD 2P       7.5x4   0.792 
+Hacker B40 18S                               3x2100SHD 2P       7x3.5   0.792 
+Plettenberg HP 355/37/09 Evolution           6x2100SHD          12x9    0.791 
+Mega Midi-7                                  3x2100SHD 3P       9x4.5   0.791 
+Purple Power PPI-2857-2300                   2x2100SHD 2P       8x4     0.791 
+Graupner Speed 900 BB Torque 12V #6372       6x2100SHD          10x7    0.791 
+Suppo A2217K-9                               4x2100SHD          9x5     0.791 
+Plettenberg HP 290/30/07 Torque              4x3200SHD          8x4     0.791 
+Plettenberg HP 290/30/12                     6x2100SHD          8x4     0.790 
+Hacker A30 12L V2 6-Pole                     2x2100SHD 2P       7x3.5   0.790 
+Feigao 380S 12T (3808412S)                   2x3200SHD 2P       7.5x4   0.790 
+Danlion Pulso X2217/12                       4x2100SHD          7x3.5   0.790 
+Feigao 380S 20T (3808420S)                   3x3200SHD          7x4     0.789 
+Feigao 380S 33T (3808433S)                   5x2100SHD          7.5x4   0.789 
+Great Planes Rimfire 28-30-1450 (#4570)      4x2100SHD          7x3.5   0.789 
+Plettenberg HP 290/30/09 Torque              6x2100SHD          7x4     0.789 
+Robbe Sport 430-9 #4543                      6x2100SHD          8x4     0.789 
+Turnigy Park450 1050                         4x2100SHD          9x4.5   0.788 
+Jeti Phasor 15-3                             2x3200SHD 2P       9x5     0.788 
+Hacker B40 20S                               3x3200SHD          7x3.5   0.788 
+Keda KB28-47-12S                             2x3200SHD 2P       7.5x4   0.788 
+Graupner Speed 500 BB Race 8.4V #6303        3x2100SHD 2P       7x3.5   0.787 
+Astro Cobalt 15 10T#21 #615                  4x3200SHD          7.5x4   0.787 
+Model Motors AXI AC2814/12                   4x2100SHD          7x3.5   0.787 
+Plettenberg HP 290/30/11 Torque              6x2100SHD          8x4.5   0.786 
+IFlight iBM2808-10                           4x2100SHD          7x3.5   0.786 
+RCer Warp 4 BL4-15 6-Turn                    4x2100SHD          8x4     0.786 
+Plettenberg HP 290/30/13 Torque              6x2100SHD          10x5    0.786 
+FSD FBWR3650/10.5T                           2x3200SHD 2P       7x3.5   0.786 
+Medusa Research 028-032-1900                 3x3200SHD          7.5x4   0.786 
+Plettenberg HP 290/30/10 Torque              6x2100SHD          8x4     0.785 
+Graupner Ultra 3300-6 18V #6353              6x3200SHD          10x5.5  0.785 
+Feigao 380S 22T (3808422S)                   4x2100SHD 2P       7.5x4   0.785 
+Plettenberg HP 220/20/A2 S P6                3x2100SHD 2P       6x3     0.784 
+Feigao 380S 21T (3808421S)                   3x3200SHD          7.5x4   0.784 
+Kontronik Fun 400-23 (12V)                   3x3200SHD          6.5x3.5 0.784 
+Plettenberg HP 220/20/A3 S P6 SL             4x2100SHD 2P       7x3.5   0.783 
+Great Planes Ammo 24-45-2350 (#5175)         3x2100SHD 2P       7x3.5   0.783 
+Hacker B40 15S                               3x2100SHD 3P       7x3.5   0.782 
+Feigao 380S 29T (3808429S)                   5x3200SHD          8x4     0.782 
+IFlight iBM2217-9                            4x2100SHD          10x5.5  0.782 
+Plettenberg HP 220/15/B16 P14 Frstyle L      5x2100SHD          7x4     0.782 
+BP A2814-6                                   3x3200SHD          9x4.5   0.782 
+Cermark CEM CM0506                           3x2100SHD 2P       8x4     0.782 
+Feigao 380S 13T (3808413S)                   2x2100SHD 2P       7x3.5   0.781 
+Keda KB28-47-22S                             4x2100SHD 2P       7.5x4   0.781 
+LRP Zenit 550-7-8-BB #5912                   3x3200SHD          6.5x3.5 0.781 
+Scorpion HKII-2221-12                        3x3200SHD          6x3     0.780 
+Keda KB28-47-13S                             2x2100SHD 2P       7x3.5   0.780 
+Suppo A2814-6                                3x3200SHD          9x4.5   0.780 
+Feigao 380S 28T (3808428S)                   4x2100SHD          7x4     0.780 
+FSD FC2830-9T                                4x2100SHD          7.5x4   0.780 
+Hyperion Gs2218-10                           4x2100SHD          7x4     0.780 
+Scorpion HK 2221-12                          3x3200SHD          6x3     0.780 
+Hacker C40 21S                               3x3200SHD          7x4     0.780 
+FSD FBP2845/3.5Y                             2x2100SHD 2P       7.5x4   0.780 
+FSD FB2848/13T                               2x2100SHD 2P       7x3.5   0.779 
+Graupner Ultra Brushless 220/20-2 #6380      3x2100SHD 2P       6.5x3.5 0.779 
+Medusa Research 028-032-2800                 2x2100SHD 2P       7x4     0.778 
+Kontronik KIRA 400-34 (12V)                  2x3200SHD 2P       7.5x4   0.778 
+FSD FBWR3650/14.5T                           3x3200SHD          6x3     0.778 
+IFlight iBM2808-8                            3x3200SHD          8x4     0.777 
+FSD FBP2845/5.5D                             2x2100SHD 2P       7x3.5   0.777 
+EM Cyclon NFS 2500                           2x2100SHD 3P       9x4.5   0.776 
+Plettenberg HP 290/30/13                     6x2100SHD          9x4.5   0.776 
+Plettenberg HP 290/30/07                     5x2100SHD          6x3     0.775 
+RC-Timer 2212-10                             4x2100SHD          7x4     0.775 
+Purple Power PPO-3530-1400                   4x2100SHD          7x3.5   0.775 
+Pelikan RAY C3530/10                         4x2100SHD          7x3.5   0.775 
+Great Planes Ammo 28-45-2700 (#5215)         2x2100SHD 2P       7.5x4   0.775 
+IFlight iBM2212L-8                           4x2100SHD          7.5x4   0.774 
+RCer Warp 4 BL4-15 3-Turn                    2x2100SHD 2P       7.5x4   0.774 
+Flyware LRK 350/10-ARF-10.5W 10-pole         2x2100SHD 2P       7.5x4   0.774 
+Hacker C40 14S                               2x2100SHD 2P       7x3.5   0.773 
+Hacker B40 14S                               2x2100SHD 2P       7x3.5   0.773 
+HiMaxx HA2815-2000                           3x3200SHD          7x3.5   0.773 
+Scorpion 2215-1860                           2x3200SHD          9x5     0.773 
+Hacker B40 21S                               3x3200SHD          7x4     0.772 
+Hacker C40 13S                               2x3200SHD 2P       7.5x4   0.772 
+Kontronik Fun 400-36 (12V)                   2x2100SHD 3P       7x3.5   0.772 
+Plettenberg HP 220/20/A4 S P4                3x3200SHD          6.5x3.5 0.771 
+Mega ACn 16-15-6                             4x2100SHD          7x3.5   0.771 
+Plettenberg HP 220/25/A1 P6 (no gearbox)     2x2100SHD 5P       7x3.5   0.771 
+Kontronik BL400-22 (7V)                      3x3200SHD          7x3.5   0.771 
+Aveox 1010/DF                                2x3200SHD 2P       7.5x4   0.770 
+Feigao 380S 14T (3808414S)                   2x2100SHD 2P       7x4     0.770 
+Keda KB28-47-14S                             2x2100SHD 2P       7x4     0.770 
+Graupner Ultra  920-6M 10V #6336             3x2100SHD 2P       6x3     0.770 
+IFlight iBM2212-10                           4x2100SHD          7x4     0.770 
+FSD FBP2845/6D                               2x2100SHD 2P       7.5x4   0.770 
+FSD FB2445/18T                               3x3200SHD          6x3     0.769 
+Keda KB28-47-15S                             2x2100SHD 2P       7.5x4   0.768 
+Plettenberg HP 220/30/A2 P4 Car E-Maxx       2x3200SHD 2P       7.5x4   0.767 
+Feigao 380S 15T (3808415S)                   2x2100SHD 2P       7.5x4   0.767 
+Mega ACn 16-15-3                             2x2100SHD 2P       7x3.5   0.766 
+Great Planes Ammo 24-45-3790 (#5185)         2x3200SHD 2P       7x3.5   0.765 
+Graupner Speed 700 BB Turbo 9.6V #3307       6x2100SHD          6x3     0.764 
+Great Planes Rimfire 35-30-1450 (#4600)      4x2100SHD          7x3.5   0.764 
+Kyosho Krypton Krystal 14T (est)             2x2100SHD 3P       6x3     0.764 
+Turnigy 480S BL 3200                         2x3200SHD 2P       7.5x4   0.764 
+FSD FB2848/15T                               2x2100SHD 2P       7.5x4   0.763 
+FSD FBP2845/4.5D                             2x2100SHD 4P       7.5x4   0.763 
+Feigao 380S 32T (3808432S)                   4x2100SHD          8x4     0.763 
+Kontronik Fun 400-42 (6V)                    2x2100SHD 4P       7x3.5   0.763 
+Plettenberg HP 290/30/12 Torque              6x2100SHD          9x5     0.762 
+Kontronik BL400-22 (12V)                     3x3200SHD          7x3.5   0.761 
+Plettenberg HP 290/30/09                     5x2100SHD          7x3.5   0.761 
+LRP Zenit 550-6-7-BB #5921                   3x2100SHD 2P       6x3     0.761 
+Graupner Speed 820 BB Turbo Race #6375       6x3200SHD          7.5x4   0.761 
+FSD FC2835-4T                                2x3200SHD          9x5     0.760 
+Great Planes Rimfire 28-30-750 (#4555)       3x2100SHD          11x9    0.759 
+Hacker A20 6XL 10-Pole                       2x2100SHD 2P       7.5x4   0.758 
+Cermark CEM 05 Cobalt                        3x3200SHD          7x3.5   0.757 
+Astro Cobalt 05 7T#20 #605                   3x3200SHD          7x3.5   0.756 
+LRP Zenit 650-10-BB #5971                    3x3200SHD          8x4.5   0.756 
+HiMaxx HA2815-1400                           4x2100SHD          7x4     0.755 
+LRP Zenit 550-7-8 #5911                      3x3200SHD          7x3.5   0.755 
+Mega ACn 16-7-12                             5x2100SHD          7x3.5   0.754 
+Hacker B40 13S                               2x3200SHD 2P       7.5x4   0.752 
+Feigao 380S 24T (3808424S)                   3x3200SHD          9x4.5   0.752 
+Graupner Ultra 1300-7 12V #6357              4x2100SHD 2P       9x4.5   0.752 
+Kontronik Fun 400-42 (12V)                   2x2100SHD 4P       7x3.5   0.752 
+Hacker C40 16S                               3x2100SHD 3P       7.5x4   0.751 
+Mega ACn 16-7-8                              3x3200SHD          7x4     0.748 
+Astro Brushless 05 Fan 3T#18 #806F           2x3200SHD 2P       7x4     0.748 
+IFlight iBM4120-6                            6x2100SHD          9x5     0.748 
+Scorpion 2212-1920                           2x3200SHD          9x5     0.747 
+Medusa Research 028-032-2400                 2x2100SHD 2P       8x4.5   0.747 
+ECMC 550 Motor                               6x2100SHD          7x3.5   0.746 
+Mega ACn 22/10/3                             2x3200SHD 2P       7x3.5   0.745 
+Keda KB28-47-16S                             2x2100SHD 2P       8x4.5   0.745 
+Mega ACn 16-15-8                             5x2100SHD          7.5x4   0.744 
+Multiplex Permax 680                         3x2100SHD 2P       6x3     0.744 
+Maxx Products 1507                           3x3200SHD          7.5x4   0.744 
+Graupner Ultra 1600-4 10V #6331              5x3200SHD          7x3.5   0.744 
+Graupner Speed 700 BB TurboNeo9.6V #6305     4x3200SHD          7x4     0.743 
+Graupner Ultra  920-5 7V #6340               2x3200SHD 2P       7x4     0.743 
+Kontronik BL400-36 (12V)                     2x3200SHD 2P       7x4     0.742 
+Kontronik KIRA 400-27 (12V)                  2x2100SHD 2P       8x4     0.742 
+FSD FBWR3650/11.5T                           2x2100SHD 3P       7.5x4   0.742 
+Hacker B40 16S                               2x2100SHD 2P       8x4     0.741 
+HiMaxx HA2825-2300                           3x3200SHD          7x3.5   0.740 
+Plettenberg HP 290/30/06                     4x2100SHD 2P       7.5x4   0.738 
+Mega Mini-L10                                4x3200SHD          7.5x4   0.737 
+Scorpion SII-2212-1070 V2                    3x2100SHD          10x6    0.735 
+Plettenberg HP 220/20/A5 S P4 SL             4x2100SHD 2P       7.5x4   0.735 
+Astro Brushless 05 3T#18 #806PM w/o G.B      2x2100SHD 2P       8x4     0.734 
+Turnigy L5055C-700                           6x2100SHD          9x5     0.733 
+Hacker C40 17S                               2x2100SHD 2P       8x4.5   0.732 
+HiMaxx HA2815-3000                           2x2100SHD 2P       7x3.5   0.730 
+FSD FC2835-5T                                2x3200SHD          10x6    0.730 
+Astro Brushless 05 3T#18 #806G               2x2100SHD 2P       8x4     0.729 
+Astro Brushless 05 3T#18 #806SP              2x2100SHD 2P       8x4     0.729 
+Astro Brushless 05 3T#18 #806G w/o G.B       2x2100SHD 2P       8x4     0.729 
+Aveox 27/13/4                                3x3200SHD          7x3.5   0.727 
+Purple Power PPI-2447-2350                   3x3200SHD          7x3.5   0.725 
+Graupner Ultra 1300-6 10V #6348              4x2100SHD 2P       8x4     0.724 
+FSD FBWR3650/12.5T                           2x3200SHD 2P       8x4     0.721 
+Mega ACn 22/10/6                             3x3200SHD          7.5x4   0.719 
+Mega AC 22/10/6                              3x3200SHD          7.5x4   0.717 
+FSD FC2835-9T                                3x2100SHD          10x8    0.713 
+IFlight iBM4130-6                            6x2100SHD          11x8    0.713 
+Plettenberg HP 290/20/08 Neo                 3x3200SHD          7.5x4   0.710 
+Mega ACn 22/10/10                            5x2100SHD          8x4     0.705 
+Cermark CEM 480BL3                           4x3200SHD          7.5x4   0.704 
+Mega AC 22/10/10                             5x2100SHD          8x4     0.702 
+Plettenberg HP 290/20/09 Neo                 4x3200SHD          7.5x4   0.702 
+Turnigy L5055B-600                           6x2100SHD          10x7    0.701 
+Plettenberg HP 290/20/06 Neo                 3x2100SHD 2P       7x3.5   0.700 
+Graupner Ultra 1300-5 8V #6356               3x2100SHD 2P       7.5x4   0.698 
+FSD FBWR3650/13.5T                           2x3200SHD 2P       9x4.5   0.697 
+Hacker C40 15S                               2x2100SHD 3P       9x5     0.697 
+Keller 50/24                                 6x2100SHD          10x7    0.696 
+Keller KE 240/5 24V 5T #4421                 6x3200SHD          10x5.5  0.692 
+IFlight iBM4130-7                            6x2100SHD          13x10   0.691 
+Dualsky XM3530CA-16                          3x2100SHD          11x8    0.689 
+Graupner Ultra 3300-10 24V #6355             6x2100SHD          13x10   0.681 
+IFlight iBM4120-7                            6x2100SHD          11x7    0.675 
+Plettenberg HP 220/20/A2S P4 Car Extreme     2x2100SHD 4P       7x3.5   0.670 
+Plettenberg HP 220/15/A2 P6 Car Indoor 2     2x3200SHD 2P       7x3.5   0.670 
+Great Planes Ammo 36-30-4000 (#5245)         2x2100SHD 3P       7x3.5   0.666 
+Graupner Speed 700 BB Turbo 8.4V #6316       4x3200SHD          7.5x4   0.663 
+Graupner Ultra 1300-8 12V #6349              4x3200SHD          9x5     0.658 
+Plettenberg HP 290/40/09 (est)               5x2100SHD          9x6     0.654 
+Plettenberg HP 220/30/A5 P4 SL               5x3200SHD          7.5x4   0.645 
+Astro Brushless 05 #805P                     2x3200SHD 2P       7x3.5   0.640 
+Purple Power PPI-3635-4000                   2x3200SHD 2P       7x4     0.634 
+Graupner Ultra 1300-9M 16V #6337             4x3200SHD          10x7    0.586 
+
+Generated by MotoCalc 8.09, 9/26/2019 3:24 PM.
